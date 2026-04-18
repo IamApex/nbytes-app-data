@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "data": {
+    "airtel": {
+      "network": "Airtel",
+      "share": "*321#",
+      "data_plans": [
+        {
+          "name": "Featured",
+          "plans": []
+        },
+        {
+          "name": "Daily",
+          "plans": []
+        },
+        {
+          "name": "Weekly",
+          "plans": []
+        },
+        {
+          "name": "Monthly",
+          "plans": []
+        },
+        {
+          "name": "Night/Weekend",
+          "plans": []
+        }
+      ]
+    },
+    "mtn": {
+      "network": "MTN",
+      "share": "*321#",
+      "data_plans": [
+        {
+          "name": "Featured",
+          "plans": []
+        },
+        {
+          "name": "Daily",
+          "plans": []
+        },
+        {
+          "name": "Weekly",
+          "plans": []
+        },
+        {
+          "name": "Monthly",
+          "plans": []
+        },
+        {
+          "name": "Night/Weekend",
+          "plans": []
+        }
+      ]
+    },
+    "glo": {
+      "network": "GLO",
+      "share": "*131#",
+      "data_plans": [
+        {
+          "name": "Featured",
+          "plans": []
+        },
+        {
+          "name": "Daily",
+          "plans": []
+        },
+        {
+          "name": "Weekly",
+          "plans": []
+        },
+        {
+          "name": "Monthly",
+          "plans": []
+        },
+        {
+          "name": "Night/Weekend",
+          "plans": []
+        }
+      ]
+    },
+    "etisalat": {
+      "network": "Etisalat",
+      "share": "*223#",
+      "data_plans": [
+        {
+          "name": "Featured",
+          "plans": []
+        },
+        {
+          "name": "Daily",
+          "plans": []
+        },
+        {
+          "name": "Weekly",
+          "plans": []
+        },
+        {
+          "name": "Monthly",
+          "plans": []
+        },
+        {
+          "name": "Night/Weekend",
+          "plans": []
+        }
+      ]
+    }
+  }
+}
