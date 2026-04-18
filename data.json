@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 1.0,
   "data": {
     "airtel": {
       "network": "Airtel",
@@ -7,23 +7,284 @@
       "data_plans": [
         {
           "name": "Featured",
-          "plans": []
+          "plans": [
+            {
+              "id": "B_PLAN_001",
+              "data": "1.5GB",
+              "price": 500,
+              "validity": "1 day",
+              "code": "*312#",
+              "description": "Binge hard for a full day with Airtel's ₦500 Binge plan.\n\nGet 1.5GB of data valid for 24 hours — perfect for downloading files, streaming videos, or catching up on your favourite series in one sitting.\n\nHow to Activate:\n\nCode:\nDial *312# → Select Binge Plans → Choose ₦500/1.5GB option.\n\nApp:\nUse the MyAirtel app."
+            },
+            {
+              "id": "B_PLAN_002",
+              "data": "2GB + 1GB YouTube Night + 200MB (YouTube, Instagram & TikTok)",
+              "price": 600,
+              "validity": "2 days",
+              "code": "*312#",
+              "description": "Stream and download without limits with Airtel's ₦600 Binge plan.\n\nGet 2GB of main data plus bonus allocations — 1GB YouTube Night, and 200MB for YouTube, Instagram & TikTok — all valid for 2 days.\n\nIdeal for a movie marathon or an intensive streaming weekend.\n\nHow to Activate:\n\nCode:\nDial *312# → Select Binge Plans → Choose ₦600/2GB option.\n\nApp:\nUse the MyAirtel app."
+            },
+            {
+              "id": "B_PLAN_003",
+              "data": "3GB + 1GB YouTube Night + 200MB (YouTube, Instagram & TikTok)",
+              "price": 750,
+              "validity": "2 days",
+              "code": "*312#",
+              "description": "More data, more fun with Airtel's ₦750 Binge plan.\n\nGet 3GB of main data plus 1GB YouTube Night and 200MB for YouTube, Instagram & TikTok — all valid for 2 days.\n\nPerfect for heavy streamers, gamers, and downloaders who need a big chunk of data quickly.\n\nHow to Activate:\n\nCode:\nDial *312# → Select Binge Plans → Choose ₦750/3GB option.\n\nApp:\nUse the MyAirtel app."
+            },
+            {
+              "id": "B_PLAN_004",
+              "data": "3.2GB + 2GB YouTube Night + 200MB (YouTube, Instagram & TikTok)",
+              "price": 1000,
+              "validity": "2 days",
+              "code": "*312#",
+              "description": "Power through two days of heavy usage with Airtel's ₦1,000 Binge plan.\n\nGet 3.2GB of main data, 2GB YouTube Night, and 200MB for YouTube, Instagram & TikTok — all valid for 2 days.\n\nGreat value for users who consume a lot of content and want both daytime and overnight access.\n\nHow to Activate:\n\nCode:\nDial *312# → Select Binge Plans → Choose ₦1,000/3.2GB option.\n\nApp:\nUse the MyAirtel app."
+            },
+            {
+              "id": "B_PLAN_005",
+              "data": "5GB + 2GB YouTube Night + 200MB (YouTube, Instagram & TikTok)",
+              "price": 1500,
+              "validity": "2 days",
+              "code": "*312#",
+              "description": "The ultimate 2-day binge experience with Airtel's ₦1,500 Binge plan.\n\nGet a massive 5GB of main data, 2GB YouTube Night, and 200MB for YouTube, Instagram & TikTok — all valid for 2 days.\n\nThe best binge plan for power users who stream, download, and browse extensively.\n\nHow to Activate:\n\nCode:\nDial *312# → Select Binge Plans → Choose ₦1,500/5GB option.\n\nApp:\nUse the MyAirtel app."
+            },
+            {
+              "id": "S_PLAN_001",
+              "data": "500MB",
+              "price": 100,
+              "validity": "3 days",
+              "code": "*312*106#",
+              "description": "Kick off your streaming experience with Airtel's ₦100 Streaming plan.\n\nGet 500MB of streaming data, valid for 3 days. Perfect for casual video watching on YouTube, TikTok, or catching short clips on social media.\n\nHow to Activate:\n\nCode:\nDial *312*106#\n\nApp:\nUse the MyAirtel app."
+            },
+            {
+              "id": "S_PLAN_002",
+              "data": "7GB",
+              "price": 2000,
+              "validity": "30 days",
+              "code": "*312*2001#",
+              "description": "Stay entertained all month with Airtel's ₦2,000 Streaming plan.\n\nGet 7GB of streaming-optimised data, valid for 30 days. Great for regular streaming of YouTube, Netflix, TikTok, and other video platforms throughout the month.\n\nHow to Activate:\n\nCode:\nDial *312*2001#\n\nApp:\nUse the MyAirtel app."
+            },
+            {
+              "id": "S_PLAN_003",
+              "data": "15GB",
+              "price": 3000,
+              "validity": "30 days",
+              "code": "*312*3001#",
+              "description": "Stream without stress all month with Airtel's ₦3,000 Streaming plan.\n\nGet 15GB of data, valid for 30 days — plenty for daily streaming of HD videos, movies, and music.\n\nHow to Activate:\n\nCode:\nDial *312*3001#\n\nApp:\nUse the MyAirtel app."
+            },
+            {
+              "id": "S_PLAN_004",
+              "data": "30GB",
+              "price": 5000,
+              "validity": "30 days",
+              "code": "*312*5001#",
+              "description": "The ultimate monthly streaming plan from Airtel at ₦5,000.\n\nGet a whopping 30GB of data, valid for 30 days. Ideal for heavy streamers who watch multiple shows, upload content, or stream in HD daily.\n\nHow to Activate:\n\nCode:\nDial *312*5001#\n\nApp:\nUse the MyAirtel app."
+            },
+            {
+              "id": "SOC_PLAN_001",
+              "data": "20MB",
+              "price": 25,
+              "validity": "1 day",
+              "code": "*948*4#",
+              "description": "Stay chatting all day with Airtel's ₦25 Social plan.\n\nGet 20MB for WhatsApp messaging only, valid for 1 day.\n\nNote: This plan is strictly for WhatsApp and cannot be used for general browsing or other apps.\n\nHow to Activate:\n\nCode:\nDial *948*4#\n\nApp:\nUse the MyAirtel app."
+            },
+            {
+              "id": "SOC_PLAN_002",
+              "data": "40MB",
+              "price": 50,
+              "validity": "1 day",
+              "code": "*991*4#",
+              "description": "Keep up with your social feeds daily with Airtel's ₦50 Social plan.\n\nGet 40MB for Facebook, Twitter/X, and WhatsApp, valid for 1 day.\n\nNote: This plan cannot be used for general browsing, YouTube, or app downloads.\n\nHow to Activate:\n\nCode:\nDial *991*4#\n\nApp:\nUse the MyAirtel app."
+            },
+            {
+              "id": "SOC_PLAN_003",
+              "data": "200MB",
+              "price": 100,
+              "validity": "5 days",
+              "code": "*688*3#",
+              "description": "Enjoy 5 days of social media access with Airtel's ₦100 Social plan.\n\nGet 200MB for Facebook, Twitter/X, and WhatsApp, valid for 5 days.\n\nNote: This plan cannot be used for general browsing, YouTube, or app downloads.\n\nHow to Activate:\n\nCode:\nDial *688*3#\n\nApp:\nUse the MyAirtel app."
+            },
+            {
+              "id": "SOC_PLAN_004",
+              "data": "700MB",
+              "price": 300,
+              "validity": "25 days",
+              "code": "*688*1#",
+              "description": "The best value social plan from Airtel at ₦300.\n\nGet 700MB for Facebook, Twitter/X, and WhatsApp, valid for 25 days — nearly a full month of social media access at a very affordable price.\n\nNote: This plan cannot be used for general browsing, YouTube, or app downloads.\n\nHow to Activate:\n\nCode:\nDial *688*1#\n\nApp:\nUse the MyAirtel app."
+            },
+            {
+              "id": "ST_PLAN_001",
+              "data": "1.5GB",
+              "price": 500,
+              "validity": "7 days",
+              "code": "*312*505#",
+              "description": "Get more data for less with Airtel's exclusive SmartTRYBE ₦500 plan.\n\nGet 1.5GB of data valid for 7 days — only available to SmartTRYBE and SmartTALK 2.0 subscribers.\n\nPerfect for students and young users who want great weekly data value at a budget price.\n\nHow to Activate:\n\nFirst migrate to SmartTRYBE:\nDial *412#\n\nThen activate the plan:\nDial *312*505# or *141*505#\n\nApp:\nUse the MyAirtel app."
+            },
+            {
+              "id": "PAYU_001",
+              "data": "Per MB",
+              "price": 4.6,
+              "validity": "No bundle — charges per MB from airtime",
+              "code": "*400#",
+              "description": "Stay connected even without a data bundle with Airtel's Pay As You Use (PAYU) plan.\n\nWhen activated, Airtel charges ₦4.60 per MB directly from your airtime balance, keeping you online without any upfront bundle purchase.\n\nNote: This is significantly more expensive than any regular data plan and is best reserved for emergencies when you need just a small amount of data quickly.\n\nHow to Activate:\n\nCode:\nDial *400#\n\nApp:\nUse the MyAirtel app."
+            }
+          ]
         },
         {
           "name": "Daily",
-          "plans": []
+          "plans": [
+            {
+              "id": "D_PLAN_001",
+              "data": "40MB",
+              "price": 50,
+              "validity": "1 day",
+              "code": "*312*50#",
+              "description": "Get online quickly with Airtel's ₦50 daily data plan.\n\nGet 40MB of internet access, valid for 24 hours.\n\nIdeal for very light usage such as sending messages, checking emails, or quick web lookups when you're on a tight budget.\n\nHow to Activate:\n\nCode:\nDial *312*50#\n\nApp:\nUse the MyAirtel app."
+            },
+            {
+              "id": "D_PLAN_002",
+              "data": "100MB",
+              "price": 100,
+              "validity": "1 day",
+              "code": "*312*100#",
+              "description": "Stay connected on a budget with Airtel's ₦100 daily data plan.\n\nGet 100MB of fast and reliable internet, valid for 24 hours.\n\nPerfect for light browsing, social media, messaging, and quick online tasks.\n\nHow to Activate:\n\nCode:\nDial *312*100#\n\nApp:\nUse the MyAirtel app."
+            },
+            {
+              "id": "D_PLAN_003",
+              "data": "1GB",
+              "price": 300,
+              "validity": "1 day",
+              "code": "*312*354#",
+              "description": "Power through your day with Airtel's ₦300 daily 1GB plan.\n\nGet a full 1GB of data, valid for 24 hours — giving you plenty of room for browsing, social media, video calls, and light streaming.\n\nGreat value for users who need more data without committing to a weekly or monthly plan.\n\nHow to Activate:\n\nCode:\nDial *312*354#\n\nApp:\nUse the MyAirtel app."
+            },
+            {
+              "id": "D_PLAN_004",
+              "data": "2GB",
+              "price": 500,
+              "validity": "2 days",
+              "code": "*312*504#",
+              "description": "Enjoy more data across two days with Airtel's ₦500 2GB plan.\n\nGet 2GB of internet, valid for 2 days — perfect for moderate users who browse, stream short videos, use social media, and stay active on messaging apps.\n\nGreat value for a weekend top-up or a busy two-day stretch.\n\nHow to Activate:\n\nCode:\nDial *312*504#\n\nApp:\nUse the MyAirtel app."
+            }
+          ]
         },
         {
           "name": "Weekly",
-          "plans": []
+          "plans": [
+            {
+              "id": "W_PLAN_001",
+              "data": "200MB",
+              "price": 200,
+              "validity": "3 days",
+              "code": "*312*200#",
+              "description": "Stay connected for 3 days with Airtel's ₦200 data plan.\n\nGet 200MB of internet access, valid for 3 days.\n\nPerfect for light browsing, messaging, and social media checks across a few days without spending too much.\n\nHow to Activate:\n\nCode:\nDial *312*200#\n\nApp:\nUse the MyAirtel app."
+            },
+            {
+              "id": "W_PLAN_002",
+              "data": "350MB",
+              "price": 300,
+              "validity": "7 days",
+              "code": "*312*300#",
+              "description": "Keep browsing all week with Airtel's ₦300 weekly data plan.\n\nGet 350MB of internet, valid for 7 days.\n\nIdeal for light weekly users who need data for messaging, social media, and occasional browsing without the commitment of a monthly plan.\n\nHow to Activate:\n\nCode:\nDial *312*300#\n\nApp:\nUse the MyAirtel app."
+            },
+            {
+              "id": "W_PLAN_003",
+              "data": "750MB + 1GB YouTube Night + 200MB Spotify + 210MB TikTok + 210MB Airtel TV",
+              "price": 500,
+              "validity": "14 days",
+              "code": "*312*500#",
+              "description": "Get two weeks of value-packed browsing with Airtel's ₦500 plan.\n\nEnjoy 750MB of main data plus generous streaming bonuses — 1GB YouTube Night, 200MB Spotify, 210MB TikTok, and 210MB Airtel TV — all valid for 14 days.\n\nPerfect for entertainment lovers who want to stream music, videos, and social content on a budget.\n\nHow to Activate:\n\nCode:\nDial *312*500#\n\nApp:\nUse the MyAirtel app."
+            },
+            {
+              "id": "W_PLAN_004",
+              "data": "1GB + 1GB YouTube Night + 100MB Spotify + 105MB TikTok + 105MB Airtel TV",
+              "price": 500,
+              "validity": "7 days",
+              "code": "*312*502#",
+              "description": "Make the most of your week with Airtel's ₦500 7-day data plan.\n\nGet 1GB of main data plus exciting bonuses — 1GB YouTube Night, 100MB Spotify, 105MB TikTok, and 105MB Airtel TV — all valid for 7 days.\n\nGreat for users who enjoy streaming and social media throughout the week without breaking the bank.\n\nHow to Activate:\n\nCode:\nDial *312*502#\n\nApp:\nUse the MyAirtel app."
+            },
+            {
+              "id": "W_PLAN_005",
+              "data": "6GB",
+              "price": 1500,
+              "validity": "7 days",
+              "code": "*312*1504#",
+              "description": "Power through your week with Airtel's ₦1,500 weekly data plan.\n\nGet a generous 6GB of data, valid for 7 days — plenty for heavy browsing, HD streaming, video calls, downloads, and staying active across all your apps.\n\nThe best weekly option for users with high data demands.\n\nHow to Activate:\n\nCode:\nDial *312*1504#\n\nApp:\nUse the MyAirtel app."
+            }
+          ]
         },
         {
           "name": "Monthly",
-          "plans": []
+          "plans": [
+            {
+              "id": "M_PLAN_001",
+              "data": "1.5GB + 2GB YouTube Night + 450MB Spotify + 510MB TikTok + 510MB Airtel TV",
+              "price": 1000,
+              "validity": "30 days",
+              "code": "*312*1000#",
+              "description": "Kick off the month with Airtel's ₦1,000 monthly data plan.\n\nGet 1.5GB of main data plus rich streaming bonuses — 2GB YouTube Night, 450MB Spotify, 510MB TikTok, and 510MB Airtel TV — all valid for 30 days.\n\nPerfect for budget-conscious users who still want to enjoy music, videos, and social media all month long.\n\nHow to Activate:\n\nCode:\nDial *312*1000#\n\nApp:\nUse the MyAirtel app."
+            },
+            {
+              "id": "M_PLAN_002",
+              "data": "2GB + 4GB YouTube Night + 450MB Spotify + 510MB TikTok + 510MB Airtel TV",
+              "price": 1200,
+              "validity": "30 days",
+              "code": "*312*1200#",
+              "description": "Stay connected all month with Airtel's ₦1,200 monthly data plan.\n\nGet 2GB of main data plus generous streaming bonuses — 4GB YouTube Night, 450MB Spotify, 510MB TikTok, and 510MB Airtel TV — all valid for 30 days.\n\nIdeal for everyday users who browse, stream, and stay active on social media throughout the month.\n\nHow to Activate:\n\nCode:\nDial *312*1200#\n\nApp:\nUse the MyAirtel app."
+            },
+            {
+              "id": "M_PLAN_003",
+              "data": "3GB + 4GB YouTube Night + 450MB Spotify + 510MB TikTok + 510MB Airtel TV",
+              "price": 1500,
+              "validity": "30 days",
+              "code": "*312*1500#",
+              "description": "Enjoy a full month of reliable internet with Airtel's ₦1,500 monthly plan.\n\nGet 3GB of main data plus streaming bonuses — 4GB YouTube Night, 450MB Spotify, 510MB TikTok, and 510MB Airtel TV — all valid for 30 days.\n\nA solid choice for moderate users who want enough data for browsing, social media, calls, and entertainment.\n\nHow to Activate:\n\nCode:\nDial *312*1500#\n\nApp:\nUse the MyAirtel app."
+            },
+            {
+              "id": "M_PLAN_004",
+              "data": "4.5GB + 4GB YouTube Night + 450MB Spotify + 510MB TikTok + 510MB Airtel TV",
+              "price": 2000,
+              "validity": "30 days",
+              "code": "*312*2000#",
+              "description": "Do more this month with Airtel's ₦2,000 monthly data plan.\n\nGet 4.5GB of main data plus exciting streaming bonuses — 4GB YouTube Night, 450MB Spotify, 510MB TikTok, and 510MB Airtel TV — all valid for 30 days.\n\nGreat for active users who browse heavily, stream content, and stay connected across multiple apps daily.\n\nHow to Activate:\n\nCode:\nDial *312*2000#\n\nApp:\nUse the MyAirtel app."
+            },
+            {
+              "id": "M_PLAN_005",
+              "data": "6GB + 4GB YouTube Night + 450MB Spotify + 510MB TikTok + 510MB Airtel TV",
+              "price": 2500,
+              "validity": "30 days",
+              "code": "*312*2500#",
+              "description": "Get more data for less with Airtel's ₦2,500 monthly plan.\n\nEnjoy 6GB of main data plus streaming bonuses — 4GB YouTube Night, 450MB Spotify, 510MB TikTok, and 510MB Airtel TV — all valid for 30 days.\n\nPerfect for users who consume a good amount of data daily and want a balance of value and volume.\n\nHow to Activate:\n\nCode:\nDial *312*2500#\n\nApp:\nUse the MyAirtel app."
+            },
+            {
+              "id": "M_PLAN_006",
+              "data": "10GB + 4GB YouTube Night + 450MB Spotify + 510MB TikTok + 510MB Airtel TV",
+              "price": 3000,
+              "validity": "30 days",
+              "code": "*312*3000#",
+              "description": "Take your monthly browsing to the next level with Airtel's ₦3,000 plan.\n\nGet 10GB of main data plus streaming bonuses — 4GB YouTube Night, 450MB Spotify, 510MB TikTok, and 510MB Airtel TV — all valid for 30 days.\n\nIdeal for users who stream videos, work online, video call frequently, and need a dependable data supply all month.\n\nHow to Activate:\n\nCode:\nDial *312*3000#\n\nApp:\nUse the MyAirtel app."
+            },
+            {
+              "id": "M_PLAN_007",
+              "data": "11GB + 4GB YouTube Night + 450MB Spotify + 510MB TikTok + 510MB Airtel TV",
+              "price": 4000,
+              "validity": "30 days",
+              "code": "*312*4000#",
+              "description": "Power through the month with Airtel's ₦4,000 monthly data plan.\n\nGet 11GB of main data plus streaming bonuses — 4GB YouTube Night, 450MB Spotify, 510MB TikTok, and 510MB Airtel TV — all valid for 30 days.\n\nA great pick for heavy users who need ample data for work, streaming, downloads, and staying connected around the clock.\n\nHow to Activate:\n\nCode:\nDial *312*4000#\n\nApp:\nUse the MyAirtel app."
+            }
+          ]
         },
         {
           "name": "Night/Weekend",
-          "plans": []
+          "plans": [
+            {
+              "id": "N_PLAN_001",
+              "data": "250MB",
+              "price": 50,
+              "validity": "12:00 AM – 5:00 AM",
+              "code": "*412#",
+              "description": "Burn the midnight oil without burning your wallet with Airtel's ₦50 Night Plan.\n\nGet 250MB of data usable strictly between 12:00 AM and 5:00 AM.\n\nIdeal for late-night browsing, downloading files, updating apps, or streaming content during off-peak hours when the network is faster and less congested.\n\nNote: Data expires at 5:00 AM and cannot be carried over.\n\nHow to Activate:\n\nCode:\nDial *412# and select the ₦50 for 250MB option\n\nApp:\nUse the MyAirtel app."
+            }
+          ]
         },
         {
           "name": "App",
@@ -37,27 +298,449 @@
       "data_plans": [
         {
           "name": "Featured",
-          "plans": []
+          "plans": [
+            {
+              "id": "HR_PLAN_001",
+              "data": "2GB",
+              "price": 200,
+              "validity": "60 minutes",
+              "code": "*312*1*10*1#",
+              "description": "Blast through 2GB in one focused hour with MTN's ₦200 Hourly plan.\n\nGet 2GB of data valid for just 60 minutes — perfect for quick heavy downloads, a video call session, or an intensive burst of online activity.\n\nNote: Unused data expires after 60 minutes and does not roll over.\n\nHow to Activate:\n\nCode:\nDial *312*1*10*1#\n\nApp:\nUse the myMTN App.\n\nCheck balance:\nDial *323#"
+            },
+            {
+              "id": "HR_PLAN_002",
+              "data": "5GB",
+              "price": 500,
+              "validity": "60 minutes",
+              "code": "*312*1*10*2#",
+              "description": "Get 5GB to use in a single hour with MTN's ₦500 Hourly plan.\n\nPerfect for downloading large files, backing up to the cloud, or streaming in HD during a dedicated one-hour window.\n\nNote: Unused data expires after 60 minutes and does not roll over.\n\nHow to Activate:\n\nCode:\nDial *312*1*10*2#\n\nApp:\nUse the myMTN App.\n\nCheck balance:\nDial *323#"
+            },
+            {
+              "id": "HR_PLAN_003",
+              "data": "10GB",
+              "price": 1000,
+              "validity": "60 minutes",
+              "code": "*312*1*10*3#",
+              "description": "The ultimate hourly plan — 10GB for just ₦1,000 in 60 minutes.\n\nIdeal for power users who need to do massive downloads, back up large files, or handle data-intensive tasks in a single focused session.\n\nNote: Unused data expires after 60 minutes and does not roll over.\n\nHow to Activate:\n\nCode:\nDial *312*1*10*3#\n\nApp:\nUse the myMTN App.\n\nCheck balance:\nDial *323#"
+            },
+            {
+              "id": "SOC_PLAN_001",
+              "data": "20MB",
+              "price": 25,
+              "validity": "1 day",
+              "code": "Text 'WAD' to 312",
+              "description": "Stay chatting all day for just ₦25 with MTN's WhatsApp Daily plan.\n\nGet 20MB of data for WhatsApp access only, valid for 1 day. Great for users who primarily communicate via WhatsApp messages and media.\n\nNote: Voice and video calls on WhatsApp are NOT covered by this plan. Access limited to WhatsApp only.\n\nHow to Activate:\n\nSMS:\nText 'WAD' to 312\n\nUSSD:\nDial *312*3# and follow prompts\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "SOC_PLAN_002",
+              "data": "20MB",
+              "price": 25,
+              "validity": "1 day",
+              "code": "Text 'FBD' to 312",
+              "description": "Stay connected on Facebook all day for just ₦25 with MTN's Facebook Daily plan.\n\nGet 20MB of Facebook-only access, valid for 1 day. Perfect for scrolling your feed, posting updates, and chatting on Messenger.\n\nNote: Access limited to Facebook only.\n\nHow to Activate:\n\nSMS:\nText 'FBD' to 312\n\nUSSD:\nDial *312*3# and follow prompts\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "SOC_PLAN_003",
+              "data": "150MB",
+              "price": 50,
+              "validity": "1 day",
+              "code": "Text 'TBD' to 312",
+              "description": "Scroll TikTok all day for just ₦50 with MTN's TikTok Daily plan.\n\nGet 150MB for TikTok access only, valid for 1 day — great value for users who love watching and sharing short videos.\n\nNote: Access limited to TikTok only.\n\nHow to Activate:\n\nSMS:\nText 'TBD' to 312\n\nUSSD:\nDial *312*3# and follow prompts\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "SOC_PLAN_004",
+              "data": "200MB",
+              "price": 100,
+              "validity": "1 day",
+              "code": "*312*3#",
+              "description": "Access all your favourite social apps in one plan with MTN's ₦100 All Social Daily plan.\n\nGet 200MB for Facebook, WhatsApp, TikTok, Instagram, Ayoba, WeChat, 2GO, Vskit, and Eskimi — all valid for 1 day.\n\nNote: WhatsApp voice and video calls are not covered.\n\nHow to Activate:\n\nUSSD:\nDial *312*3# and select All Social Daily plan\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "SOC_PLAN_005",
+              "data": "40MB",
+              "price": 50,
+              "validity": "7 days",
+              "code": "Text 'WAW' to 312",
+              "description": "Keep chatting on WhatsApp all week for just ₦50 with MTN's WhatsApp Weekly plan.\n\nGet 40MB for WhatsApp-only access, valid for 7 days — ideal for light users who mainly use WhatsApp for messaging and media.\n\nNote: Voice and video calls on WhatsApp are NOT covered.\n\nHow to Activate:\n\nSMS:\nText 'WAW' to 312\n\nUSSD:\nDial *312*3# and follow prompts\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "SOC_PLAN_006",
+              "data": "470MB",
+              "price": 200,
+              "validity": "7 days",
+              "code": "*312*3#",
+              "description": "Cover all your social media apps for a whole week with MTN's ₦200 All Social Weekly plan.\n\nGet 470MB for Facebook, WhatsApp, TikTok, Instagram, Ayoba, WeChat, 2GO, Vskit, and Eskimi — all valid for 7 days.\n\nNote: WhatsApp voice and video calls are not covered.\n\nHow to Activate:\n\nUSSD:\nDial *312*3# and select All Social Weekly plan\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "SOC_PLAN_007",
+              "data": "2GB",
+              "price": 400,
+              "validity": "7 days",
+              "code": "*312*3#",
+              "description": "Scroll, like, and create TikTok content all week with MTN's ₦400 TikTok Weekly plan.\n\nGet 2GB for TikTok-only access, valid for 7 days — exceptional value for TikTok enthusiasts who spend a lot of time on the platform.\n\nNote: Access limited to TikTok only.\n\nHow to Activate:\n\nUSSD:\nDial *312*3# and follow prompts\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "SOC_PLAN_008",
+              "data": "120MB",
+              "price": 150,
+              "validity": "30 days",
+              "code": "Text 'WAM' to 312",
+              "description": "Stay on WhatsApp for a full month for just ₦150 with MTN's WhatsApp Monthly plan.\n\nGet 120MB for WhatsApp-only access, valid for 30 days — the most affordable way to keep messaging all month long.\n\nNote: Voice and video calls on WhatsApp are NOT covered.\n\nHow to Activate:\n\nSMS:\nText 'WAM' to 312\n\nUSSD:\nDial *312*3# and follow prompts\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "SOC_PLAN_009",
+              "data": "120MB",
+              "price": 150,
+              "validity": "30 days",
+              "code": "*312*3#",
+              "description": "Stay connected on Facebook for a full month for just ₦150 with MTN's Facebook Monthly plan.\n\nGet 120MB for Facebook-only access, valid for 30 days — perfect for users who mainly use Facebook for social updates and Messenger.\n\nNote: Access limited to Facebook only.\n\nHow to Activate:\n\nUSSD:\nDial *312*3# and follow prompts\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "SOC_PLAN_010",
+              "data": "1.2GB",
+              "price": 450,
+              "validity": "30 days",
+              "code": "*312*3#",
+              "description": "All your social media apps covered for a full month with MTN's ₦450 All Social Monthly plan.\n\nGet 1.2GB for Facebook, WhatsApp, TikTok, Instagram, Ayoba, WeChat, 2GO, Vskit, and Eskimi — all valid for 30 days.\n\nThe best value social bundle for users who want full platform access throughout the month.\n\nNote: WhatsApp voice and video calls are not covered.\n\nHow to Activate:\n\nUSSD:\nDial *312*3# and select All Social Monthly plan\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "SOC_PLAN_011",
+              "data": "4 hours YouTube streaming",
+              "price": 250,
+              "validity": "1 day",
+              "code": "*312*3#",
+              "description": "Stream YouTube for 4 uninterrupted hours for just ₦250 with MTN's YouTube Buffet Daily plan.\n\nGet 4 hours of YouTube streaming access valid for 1 day — perfect for binge-watching videos, tutorials, or catching up on your favourite channels without touching your main data.\n\nNote: Access limited to YouTube streaming only.\n\nHow to Activate:\n\nUSSD:\nDial *312*3# and select YouTube Buffet\n\nApp:\nUse the myMTN App."
+            }
+          ]
         },
         {
           "name": "Daily",
-          "plans": []
+          "plans": [
+            {
+              "id": "D_PLAN_001",
+              "data": "75MB",
+              "price": 75,
+              "validity": "1 day",
+              "code": "Text '114' to 312",
+              "description": "Stay connected on the tightest budget with MTN's ₦75 daily plan.\n\nGet 75MB of data valid for 24 hours — best suited for quick messaging, checking emails, or light browsing when you need just a little data to get by.\n\nHow to Activate:\n\nSMS:\nText '114' to 312\n\nUSSD:\nDial *312*1# and select plan\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "D_PLAN_002",
+              "data": "110MB",
+              "price": 100,
+              "validity": "1 day",
+              "code": "Text '104' to 312",
+              "description": "Get online without breaking the bank with MTN's ₦100 daily plan.\n\nGet 110MB of data valid for 24 hours — ideal for light browsing, WhatsApp messaging, and quick social media checks throughout the day.\n\nHow to Activate:\n\nSMS:\nText '104' to 312\n\nUSSD:\nDial *312*1# and select plan\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "D_PLAN_003",
+              "data": "230MB",
+              "price": 200,
+              "validity": "1 day",
+              "code": "*312*1#",
+              "description": "Browse more for less with MTN's ₦200 daily plan.\n\nGet 230MB of data valid for 24 hours — great for moderate browsing, social media, and keeping up with messages and feeds throughout the day.\n\nHow to Activate:\n\nUSSD:\nDial *312*1# and select plan\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "D_PLAN_004",
+              "data": "500MB",
+              "price": 350,
+              "validity": "1 day",
+              "code": "Text '175' to 312",
+              "description": "Half a gig for less than ₦400 — MTN's ₦350 daily plan is great value.\n\nGet 500MB of data valid for 24 hours — enough for active social media use, light streaming, video calls, and general browsing throughout the day.\n\nHow to Activate:\n\nSMS:\nText '175' to 312\n\nUSSD:\nDial *312*1# and select plan\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "D_PLAN_005",
+              "data": "1GB",
+              "price": 200,
+              "validity": "1 day",
+              "code": "myMTN App only",
+              "description": "Exclusive app deal — get 1GB for just ₦200 with MTN's Smart Bundle daily plan.\n\nThis incredible value plan is only available on the myMTN NG App and gives you 1GB of data valid for 24 hours.\n\nPerfect for users who want maximum data at a minimal cost — download the app to unlock this deal.\n\nHow to Activate:\n\nApp:\nOpen the myMTN App → Data Plans → Select '1GB Smart Bundle' for ₦200."
+            },
+            {
+              "id": "D_PLAN_006",
+              "data": "1GB + 1.5 minutes voice",
+              "price": 500,
+              "validity": "1 day",
+              "code": "Text '155' to 312",
+              "description": "Data and calls in one with MTN's ₦500 daily combo plan.\n\nGet 1GB of data plus 1.5 minutes of free calls, valid for 24 hours — a great all-in-one daily plan for users who need both browsing and calling covered.\n\nHow to Activate:\n\nSMS:\nText '155' to 312\n\nUSSD:\nDial *312*1# and select plan\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "D_PLAN_007",
+              "data": "2.5GB",
+              "price": 750,
+              "validity": "1 day",
+              "code": "*312*1*1#",
+              "description": "Power through your day with MTN's ₦750 daily plan.\n\nGet 2.5GB of data valid for 24 hours — more than enough for streaming videos, downloading content, video calls, and heavy browsing all in a single day.\n\nHow to Activate:\n\nUSSD:\nDial *312*1*1#\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "D_PLAN_008",
+              "data": "3.5GB",
+              "price": 1000,
+              "validity": "1 day",
+              "code": "Text '191' to 312",
+              "description": "The biggest daily plan from MTN — 3.5GB for just ₦1,000.\n\nGet 3.5GB of data valid for 24 hours — perfect for power users who stream HD videos, attend online meetings, download large files, or use multiple apps heavily throughout the day.\n\nHow to Activate:\n\nSMS:\nText '191' to 312\n\nUSSD:\nDial *312*1# and select plan\n\nApp:\nUse the myMTN App."
+            }
+          ]
         },
         {
           "name": "Weekly",
-          "plans": []
+          "plans": [
+            {
+              "id": "W_PLAN_001",
+              "data": "500MB + 100MB YouTube All Day + 1GB YouTube Night",
+              "price": 500,
+              "validity": "7 days",
+              "code": "Text '103' to 312",
+              "description": "Kick off your week with MTN's ₦500 weekly plan.\n\nGet 500MB of main data plus 100MB for YouTube All Day and 1GB YouTube Night streaming — all valid for 7 days.\n\nPerfect for light users who want to stay connected throughout the week while enjoying bonus YouTube access day and night.\n\nHow to Activate:\n\nSMS:\nText '103' to 312\n\nUSSD:\nDial *312*1# and select plan\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "W_PLAN_002",
+              "data": "1GB + 100MB YouTube All Day + 1GB YouTube Night",
+              "price": 800,
+              "validity": "7 days",
+              "code": "Text '142' to 312",
+              "description": "Stay browsing all week with MTN's ₦800 weekly plan.\n\nGet 1GB of main data plus 100MB for YouTube All Day and 1GB YouTube Night streaming — all valid for 7 days.\n\nGreat for moderate users who need steady internet access for social media, messaging, and casual streaming during the week.\n\nHow to Activate:\n\nSMS:\nText '142' to 312\n\nUSSD:\nDial *312*1# and select plan\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "W_PLAN_003",
+              "data": "1.5GB + 100MB YouTube All Day + 1GB YouTube Night",
+              "price": 1000,
+              "validity": "7 days",
+              "code": "Text '105' to 312",
+              "description": "Get more out of your week with MTN's ₦1,000 weekly plan.\n\nGet 1.5GB of main data plus 100MB for YouTube All Day and 1GB YouTube Night streaming — all valid for 7 days.\n\nIdeal for regular users who browse, stream, and stay active on social media throughout the week.\n\nHow to Activate:\n\nSMS:\nText '105' to 312\n\nUSSD:\nDial *312*1# and select plan\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "W_PLAN_004",
+              "data": "3.5GB",
+              "price": 1500,
+              "validity": "7 days",
+              "code": "Text '176' to 312",
+              "description": "Enjoy a data-rich week with MTN's ₦1,500 weekly plan.\n\nGet 3.5GB of data valid for 7 days — plenty for browsing, streaming, video calls, and staying active across all your favourite apps throughout the week.\n\nHow to Activate:\n\nSMS:\nText '176' to 312\n\nUSSD:\nDial *312*1# and select plan\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "W_PLAN_005",
+              "data": "6GB",
+              "price": 2500,
+              "validity": "7 days",
+              "code": "Text '143' to 312",
+              "description": "Power through the week with MTN's ₦2,500 weekly plan.\n\nGet 6GB of data valid for 7 days — great for heavy users, remote workers, and content consumers who need a solid data supply to last the full week.\n\nHow to Activate:\n\nSMS:\nText '143' to 312\n\nUSSD:\nDial *312*1# and select plan\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "W_PLAN_006",
+              "data": "11GB",
+              "price": 3500,
+              "validity": "7 days",
+              "code": "Text '181' to 312",
+              "description": "The heavy-hitter weekly plan from MTN at ₦3,500.\n\nGet 11GB of data valid for 7 days — ideal for users who stream HD videos, attend online meetings, download large files, and stay heavily connected throughout the week.\n\nHow to Activate:\n\nSMS:\nText '181' to 312\n\nUSSD:\nDial *312*1# and select plan\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "W_PLAN_007",
+              "data": "20GB",
+              "price": 5000,
+              "validity": "7 days",
+              "code": "Digital channels only",
+              "description": "The ultimate weekly plan from MTN — 20GB for ₦5,000.\n\nGet a massive 20GB of data valid for 7 days. Available exclusively via digital channels (myMTN App, shop.mtn.ng).\n\nPerfect for power users, content creators, and anyone who needs a large data pool to see them through a full week of intensive online activity.\n\nHow to Activate:\n\nApp:\nOpen the myMTN App → Data Plans → Select 20GB Weekly plan\n\nOnline:\nVisit shop.mtn.ng"
+            }
+          ]
         },
         {
           "name": "Monthly",
-          "plans": []
+          "plans": [
+            {
+              "id": "M_PLAN_001",
+              "data": "2GB + 200MB YouTube All Day + 2GB YouTube Night + 2 minutes voice",
+              "price": 1500,
+              "validity": "30 days",
+              "code": "Text '106' to 312",
+              "description": "Kick off the month with MTN's ₦1,500 monthly plan.\n\nGet 2GB of main data plus 200MB YouTube All Day, 2GB YouTube Night streaming, and 2 free minutes of calls — all valid for 30 days.\n\nPerfect for budget-conscious users who want a reliable monthly bundle with bonus streaming and calling perks.\n\nHow to Activate:\n\nSMS:\nText '106' to 312\n\nUSSD:\nDial *312*1# and select plan\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "M_PLAN_002",
+              "data": "2.7GB + 200MB YouTube All Day + 2GB YouTube Night + 2 minutes voice",
+              "price": 2000,
+              "validity": "30 days",
+              "code": "Text '130' to 312",
+              "description": "Stay connected all month with MTN's ₦2,000 monthly plan.\n\nGet 2.7GB of main data plus 200MB YouTube All Day, 2GB YouTube Night streaming, and 2 free minutes of calls — all valid for 30 days.\n\nGreat for everyday users who browse, stream, and stay active on social media throughout the month.\n\nHow to Activate:\n\nSMS:\nText '130' to 312\n\nUSSD:\nDial *312*1# and select plan\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "M_PLAN_003",
+              "data": "3.5GB + 200MB YouTube All Day + 2GB YouTube Night + 5 minutes voice",
+              "price": 2500,
+              "validity": "30 days",
+              "code": "Text '131' to 312",
+              "description": "Get more value this month with MTN's ₦2,500 monthly plan.\n\nGet 3.5GB of main data plus 200MB YouTube All Day, 2GB YouTube Night streaming, and 5 free minutes of calls — all valid for 30 days.\n\nIdeal for moderate users who want a balance of browsing data, streaming bonuses, and call minutes.\n\nHow to Activate:\n\nSMS:\nText '131' to 312\n\nUSSD:\nDial *312*1# and select plan\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "M_PLAN_004",
+              "data": "7GB + 2GB YouTube Night",
+              "price": 3500,
+              "validity": "30 days",
+              "code": "Text '110' to 312",
+              "description": "Browse freely all month with MTN's ₦3,500 monthly plan.\n\nGet 7GB of main data plus 2GB YouTube Night streaming — all valid for 30 days.\n\nA solid choice for regular internet users who need a dependable monthly data supply for browsing, social media, and light streaming.\n\nHow to Activate:\n\nSMS:\nText '110' to 312\n\nUSSD:\nDial *312*1# and select plan\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "M_PLAN_005",
+              "data": "10GB + 200MB YouTube All Day + 2GB YouTube Night + 10 minutes voice",
+              "price": 4500,
+              "validity": "30 days",
+              "code": "Text '147' to 312",
+              "description": "Do more this month with MTN's ₦4,500 monthly plan.\n\nGet 10GB of main data plus 200MB YouTube All Day, 2GB YouTube Night streaming, 10 free minutes of calls, and eligibility for data roaming — all valid for 30 days.\n\nGreat for active users who stream, browse heavily, and make regular calls throughout the month.\n\nHow to Activate:\n\nSMS:\nText '147' to 312\n\nUSSD:\nDial *312*1# and select plan\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "M_PLAN_006",
+              "data": "12.5GB + 300MB YouTube All Day + 2GB YouTube Night",
+              "price": 5500,
+              "validity": "30 days",
+              "code": "Text '148' to 312",
+              "description": "Stream and browse all month with MTN's ₦5,500 monthly plan.\n\nGet 12.5GB of main data plus 300MB YouTube All Day, 2GB YouTube Night streaming, and data roaming eligibility — all valid for 30 days.\n\nPerfect for heavy users and frequent travellers who need both generous data and roaming support.\n\nHow to Activate:\n\nSMS:\nText '148' to 312\n\nUSSD:\nDial *312*1# and select plan\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "M_PLAN_007",
+              "data": "16.5GB + 300MB YouTube All Day + 2GB YouTube Night + 10 minutes voice",
+              "price": 6500,
+              "validity": "30 days",
+              "code": "Text '107' to 312",
+              "description": "Enjoy a fully loaded month with MTN's ₦6,500 monthly plan.\n\nGet 16.5GB of main data plus 300MB YouTube All Day, 2GB YouTube Night streaming, 10 free minutes of calls, and data roaming eligibility — all valid for 30 days.\n\nIdeal for power users who stream, download, work remotely, and travel — all in one comprehensive monthly bundle.\n\nHow to Activate:\n\nSMS:\nText '107' to 312\n\nUSSD:\nDial *312*1# and select plan\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "M_PLAN_008",
+              "data": "18.6GB Always On",
+              "price": 5500,
+              "validity": "30 days",
+              "code": "Text '162' to 312",
+              "description": "Stay always connected with MTN's ₦5,500 Always On monthly plan.\n\nGet 18.6GB of data with no night or day restrictions — use it anytime, valid for 30 days. No need to worry about when you can stream or browse.\n\nPerfect for users who want unrestricted data access throughout the month without any time-based limitations.\n\nHow to Activate:\n\nSMS:\nText '162' to 312\n\nUSSD:\nDial *312*1# and select plan\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "M_PLAN_009",
+              "data": "20GB + 4GB YouTube Night",
+              "price": 7500,
+              "validity": "30 days",
+              "code": "Text '116' to 312",
+              "description": "Get serious about your monthly data with MTN's ₦7,500 plan.\n\nGet 20GB of main data plus 4GB YouTube Night streaming — all valid for 30 days.\n\nA great pick for heavy streamers and frequent downloaders who need a large data pool to last the full month.\n\nHow to Activate:\n\nSMS:\nText '116' to 312\n\nUSSD:\nDial *312*1# and select plan\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "M_PLAN_010",
+              "data": "25GB + 4GB YouTube Night",
+              "price": 9000,
+              "validity": "30 days",
+              "code": "Text '153' to 312",
+              "description": "One of MTN's best value monthly plans at ₦9,000.\n\nGet 25GB of main data plus 4GB YouTube Night streaming — all valid for 30 days.\n\nExcellent for power users who stream daily, work from home, and need a large, reliable data supply all month long.\n\nHow to Activate:\n\nSMS:\nText '153' to 312\n\nUSSD:\nDial *312*1# and select plan\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "M_PLAN_011",
+              "data": "45GB Always On",
+              "price": 9000,
+              "validity": "30 days",
+              "code": "Text '163' to 312",
+              "description": "Maximum freedom, maximum data — MTN's ₦9,000 Always On plan.\n\nGet 45GB of unrestricted data with no night or day limitations — use it anytime, valid for 30 days.\n\nThe best value Always On plan for users who consume data heavily around the clock without wanting any time-based restrictions.\n\nHow to Activate:\n\nSMS:\nText '163' to 312\n\nUSSD:\nDial *312*1# and select plan\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "M_PLAN_012",
+              "data": "36GB",
+              "price": 11000,
+              "validity": "30 days",
+              "code": "Text '117' to 312",
+              "description": "Go big this month with MTN's ₦11,000 monthly plan.\n\nGet 36GB of data with data roaming eligibility — all valid for 30 days.\n\nIdeal for heavy data users, remote workers, and frequent travellers who need a large data allowance plus roaming support.\n\nHow to Activate:\n\nSMS:\nText '117' to 312\n\nUSSD:\nDial *312*1# and select plan\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "M_PLAN_013",
+              "data": "65GB",
+              "price": 16000,
+              "validity": "30 days",
+              "code": "Text '178' to 312",
+              "description": "Unleash massive data all month with MTN's ₦16,000 monthly plan.\n\nGet 65GB of data valid for 30 days — built for the heaviest of data users, offices, and smart home setups that need a huge monthly data supply.\n\nHow to Activate:\n\nSMS:\nText '178' to 312\n\nUSSD:\nDial *312*1# and select plan\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "M_PLAN_014",
+              "data": "75GB",
+              "price": 18000,
+              "validity": "30 days",
+              "code": "Text '150' to 312",
+              "description": "Near-unlimited monthly data with MTN's ₦18,000 plan.\n\nGet 75GB of data with data roaming eligibility — valid for 30 days.\n\nPerfect for businesses, power users, and frequent international travellers who need both a massive data pool and roaming support throughout the month.\n\nHow to Activate:\n\nSMS:\nText '150' to 312\n\nUSSD:\nDial *312*1# and select plan\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "M_PLAN_015",
+              "data": "165GB",
+              "price": 35000,
+              "validity": "30 days",
+              "code": "Text '149' to 312",
+              "description": "Enterprise-grade monthly data with MTN's ₦35,000 plan.\n\nGet 165GB of data valid for 30 days — designed for offices, businesses, and ultra-heavy users who need a massive data supply without interruption.\n\nHow to Activate:\n\nSMS:\nText '149' to 312\n\nUSSD:\nDial *312*1# and select plan\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "M_PLAN_016",
+              "data": "250GB",
+              "price": 55000,
+              "validity": "30 days",
+              "code": "Text '111' to 312",
+              "description": "The biggest monthly plan from MTN — 250GB for ₦55,000.\n\nGet 250GB of data valid for 30 days — the ultimate plan for businesses, large offices, and power users who demand the highest data capacity available on a monthly basis.\n\nHow to Activate:\n\nSMS:\nText '111' to 312\n\nUSSD:\nDial *312*1# and select plan\n\nApp:\nUse the myMTN App."
+            }
+          ]
         },
         {
           "name": "Night/Weekend",
-          "plans": []
+          "plans": [
+            {
+              "id": "N_PLAN_001",
+              "data": "250MB",
+              "price": 25,
+              "validity": "11:00 PM – 6:00 AM",
+              "code": "*406*3*1#",
+              "description": "Browse cheap through the night with MTN's ₦25 Pulse Nightlife plan.\n\nGet 250MB of data usable strictly between 11:00 PM and 6:00 AM — one of the most affordable data deals in Nigeria.\n\nPerfect for late-night downloads, streaming, and browsing when the network is fast and traffic is low. You can subscribe up to 4 times per night for a maximum of 2GB.\n\nNote: Requires MTN Pulse tariff. Unused data expires at 6:00 AM and does not roll over.\n\nHow to Activate:\n\nFirst migrate to MTN Pulse (free first time):\nDial *406*1# or text '406' to 312\n\nCode:\nDial *406*3*1#\n\nSMS:\nText 'NT1' to 312\n\nCheck balance:\nDial *406*3*3# or *310#\n\nApp:\nUse the myMTN App."
+            },
+            {
+              "id": "N_PLAN_002",
+              "data": "500MB",
+              "price": 75,
+              "validity": "11:00 PM – 6:00 AM",
+              "code": "*406*3*2#",
+              "description": "Get more night data for less with MTN's ₦75 Pulse Nightlife plan.\n\nGet 500MB of data usable strictly between 11:00 PM and 6:00 AM. You can subscribe up to 4 times per night, giving you a maximum of 2GB for just ₦300 in a single night.\n\nIdeal for heavy late-night users who want to download large files, stream HD content, or do overnight updates and backups.\n\nNote: Requires MTN Pulse tariff. Unused data expires at 6:00 AM and does not roll over.\n\nHow to Activate:\n\nFirst migrate to MTN Pulse (free first time):\nDial *406*1# or text '406' to 312\n\nCode:\nDial *406*3*2#\n\nSMS:\nText 'NT2' to 312\n\nCheck balance:\nDial *406*3*3# or *310#\n\nApp:\nUse the myMTN App."
+            }
+          ]
         },
         {
           "name": "App",
-          "plans": []
+          "plans": [
+            {
+              "id": "APP_PLAN_001",
+              "data": "1GB Smart Bundle",
+              "price": 200,
+              "validity": "1 day",
+              "code": "myMTN App only",
+              "description": "The best daily deal on MTN — 1GB for just ₦200, exclusively on the myMTN App.\n\nGet 1GB of data valid for 24 hours at an unbeatable price. This Smart Bundle is only available through the myMTN NG App and cannot be activated via USSD or SMS.\n\nDownload the app to unlock this deal and save big on your daily data.\n\nHow to Activate:\n\nApp:\nOpen the myMTN App → Data Plans → Select '1GB Smart Bundle' for ₦200.\n\nCheck balance:\nDial *323#"
+            },
+            {
+              "id": "APP_PLAN_002",
+              "data": "230MB",
+              "price": 200,
+              "validity": "1 day",
+              "code": "shop.mtn.ng",
+              "description": "Get 230MB for ₦200 on MTN's online shop — a simple daily plan for light browsing.\n\nValid for 24 hours and available exclusively via the MTN online shop. Great for users who prefer to buy data online rather than via USSD.\n\nHow to Activate:\n\nOnline:\nVisit shop.mtn.ng and purchase the 230MB daily plan.\n\nApp:\nAlso available on the myMTN App.\n\nCheck balance:\nDial *323#"
+            },
+            {
+              "id": "APP_PLAN_003",
+              "data": "2.5GB",
+              "price": 750,
+              "validity": "1 day",
+              "code": "myMTN App only",
+              "description": "A massive 2.5GB for just ₦750 — exclusively on the myMTN App.\n\nGet 2.5GB of data valid for 24 hours. This app-exclusive plan gives you exceptional daily value for streaming, downloading, and heavy browsing.\n\nNot available via USSD or SMS — download the myMTN App to access this deal.\n\nHow to Activate:\n\nApp:\nOpen the myMTN App → Data Plans → Select '2.5GB' daily plan for ₦750.\n\nCheck balance:\nDial *323#"
+            },
+            {
+              "id": "APP_PLAN_004",
+              "data": "20GB",
+              "price": 5000,
+              "validity": "7 days",
+              "code": "shop.mtn.ng / myMTN App",
+              "description": "The biggest weekly plan from MTN — 20GB for ₦5,000, available on digital channels only.\n\nGet a massive 20GB of data valid for 7 days. Only accessible via the myMTN App or shop.mtn.ng — not available via USSD or SMS.\n\nPerfect for power users, content creators, and anyone who needs a large weekly data pool for intensive online activity.\n\nHow to Activate:\n\nApp:\nOpen the myMTN App → Data Plans → Select 20GB Weekly plan.\n\nOnline:\nVisit shop.mtn.ng\n\nCheck balance:\nDial *323#"
+            },
+            {
+              "id": "APP_PLAN_005",
+              "data": "3.5GB",
+              "price": 1500,
+              "validity": "7 days",
+              "code": "shop.mtn.ng",
+              "description": "Get 3.5GB for ₦1,500 weekly — available on the MTN online shop.\n\nValid for 7 days, this plan offers solid weekly data for moderate users. Available via shop.mtn.ng and the myMTN App.\n\nHow to Activate:\n\nOnline:\nVisit shop.mtn.ng and purchase the 3.5GB weekly plan.\n\nApp:\nAlso available on the myMTN App.\n\nCheck balance:\nDial *323#"
+            }
+          ]
         }
       ]
     },
@@ -67,27 +750,361 @@
       "data_plans": [
         {
           "name": "Featured",
-          "plans": []
+          "plans": [
+            {
+              "id": "HR_PLAN_001",
+              "data": "500MB",
+              "price": 200,
+              "validity": "1 hour",
+              "code": "*312#",
+              "description": "Burst through 500MB in a single hour with Glo's ₦200 Hourly plan.\n\nGet 500MB of data valid for 60 minutes only — perfect for a quick heavy download session, a video call, or an intensive burst of online activity when you just need data fast.\n\nNote: The timer starts immediately upon activation. Unused data expires after 60 minutes and does not roll over. You can pause usage by turning off mobile data to freeze the timer.\n\nHow to Activate:\n\nCode:\nDial *312# → Select Special Bundles → Select Hourly Data Bundles\n\nApp:\nUse the Glo Café App.\n\nCheck balance:\nDial *323#"
+            },
+            {
+              "id": "HR_PLAN_002",
+              "data": "1GB",
+              "price": 300,
+              "validity": "2 hours",
+              "code": "*312#",
+              "description": "Get 1GB across two hours with Glo's ₦300 Hourly plan.\n\nGet 1GB of data valid for 2 hours — great for longer download sessions, streaming, or back-to-back video calls without committing to a full daily plan.\n\nNote: The timer starts immediately upon activation. Unused data expires after 2 hours and does not roll over. You can pause usage by turning off mobile data to freeze the timer.\n\nHow to Activate:\n\nCode:\nDial *312# → Select Special Bundles → Select Hourly Data Bundles\n\nApp:\nUse the Glo Café App.\n\nCheck balance:\nDial *323#"
+            },
+            {
+              "id": "MY_G_001",
+              "data": "300MB",
+              "price": 100,
+              "validity": "1 day",
+              "code": "*312#",
+              "description": "Stay social all day for just ₦100 with Glo's My-G daily plan.\n\nGet 300MB for WhatsApp, Instagram, TikTok, Snapchat, BoomPlay, Audiomack, and GloTV — valid for 1 day.\n\nNote: Data can only be used on the listed platforms. General browsing, YouTube, and other apps are not covered — those will draw from your main data plan.\n\nHow to Activate:\n\nCode:\nDial *312# → Select My-G Data Bundles\n\nApp:\nUse the Glo Café App.\n\nCheck balance:\nDial *323#"
+            },
+            {
+              "id": "MY_G_002",
+              "data": "1GB",
+              "price": 300,
+              "validity": "3 days",
+              "code": "*312#",
+              "description": "Three days of social media access for just ₦300 with Glo's My-G plan.\n\nGet 1GB for WhatsApp, Instagram, TikTok, Snapchat, BoomPlay, Audiomack, and GloTV — valid for 3 days.\n\nNote: Data can only be used on the listed platforms. General browsing and other apps are not covered.\n\nHow to Activate:\n\nCode:\nDial *312# → Select My-G Data Bundles\n\nApp:\nUse the Glo Café App.\n\nCheck balance:\nDial *323#"
+            },
+            {
+              "id": "MY_G_003",
+              "data": "1.5GB",
+              "price": 500,
+              "validity": "7 days",
+              "code": "*312#",
+              "description": "A full week of social media and entertainment for just ₦500 with Glo's My-G weekly plan.\n\nGet 1.5GB for WhatsApp, Instagram, TikTok, Snapchat, BoomPlay, Audiomack, and GloTV — valid for 7 days.\n\nNote: Data can only be used on the listed platforms. General browsing and other apps are not covered.\n\nHow to Activate:\n\nCode:\nDial *312# → Select My-G Data Bundles\n\nApp:\nUse the Glo Café App.\n\nCheck balance:\nDial *323#"
+            },
+            {
+              "id": "MY_G_004",
+              "data": "3.5GB",
+              "price": 1000,
+              "validity": "30 days",
+              "code": "*312#",
+              "description": "A whole month of social media and entertainment for just ₦1,000 with Glo's My-G monthly plan.\n\nGet 3.5GB for WhatsApp, Instagram, TikTok, Snapchat, BoomPlay, Audiomack, and GloTV — valid for 30 days.\n\nPerfect for users who primarily use social media and want to keep their main data plan for general browsing.\n\nNote: Data can only be used on the listed platforms. General browsing and other apps are not covered.\n\nHow to Activate:\n\nCode:\nDial *312# → Select My-G Data Bundles\n\nApp:\nUse the Glo Café App.\n\nCheck balance:\nDial *323#"
+            },
+            {
+              "id": "WTF_PLAN_001",
+              "data": "1.8GB",
+              "price": 500,
+              "validity": "15 days",
+              "code": "*312#",
+              "description": "Two weeks of all-round social access with Glo's ₦500 WTF bundle.\n\nGet 1.8GB for WhatsApp, Twitter/X, Facebook, TikTok, Snapchat, Telegram, Instagram, Threads, and GloTV — valid for 15 days.\n\nThe WTF (WhatsApp, Twitter, Facebook) bundle covers more platforms than My-G, including Telegram and Threads — making it the go-to for social media managers and content creators.\n\nNote: Data is restricted to the listed platforms only.\n\nHow to Activate:\n\nCode:\nDial *312# → Select Social Bundles → Select WTF Bundle\n\nApp:\nUse the Glo Café App.\n\nCheck balance:\nDial *323#"
+            },
+            {
+              "id": "ALWAYS_ON_001",
+              "data": "6.1GB (410MB/day for 15 days)",
+              "price": 2000,
+              "validity": "15 days",
+              "code": "*312#",
+              "description": "Stay always connected with Glo's ₦2,000 Always-On plan.\n\nGet approximately 410MB of data credited to your account every day for 15 days — totalling around 6.1GB. Unused daily data rolls over to the next day within the bundle validity.\n\nPerfect for users who need consistent daily internet access and want to avoid exhausting their data in the first few days.\n\nNote: If you have multiple active plans, usage is deducted from the Always-On daily allocation first.\n\nHow to Activate:\n\nCode:\nDial *312# → Select Always-ON Bundles\n\nApp:\nUse the Glo Café App.\n\nCheck balance:\nDial *323#"
+            },
+            {
+              "id": "ALWAYS_ON_002",
+              "data": "15GB (500MB/day for 30 days)",
+              "price": 2000,
+              "validity": "30 days",
+              "code": "*312#",
+              "description": "A month of structured daily data with Glo's ₦2,000 Always-On monthly plan.\n\nGet 500MB of data credited every day for 30 days — totalling 15GB. Unused daily data rolls over to the next day within the bundle validity.\n\nIdeal for light-to-moderate users who want guaranteed daily internet without burning through a lump sum allocation in the first week.\n\nNote: If you have multiple active plans, usage is deducted from the Always-On daily allocation first.\n\nHow to Activate:\n\nCode:\nDial *312# → Select Always-ON Bundles\n\nApp:\nUse the Glo Café App.\n\nCheck balance:\nDial *323#"
+            },
+            {
+              "id": "ALWAYS_ON_003",
+              "data": "30GB (1GB/day for 30 days)",
+              "price": 5000,
+              "validity": "30 days",
+              "code": "*312#",
+              "description": "Power through every day of the month with Glo's ₦5,000 Always-On plan.\n\nGet 1GB of data credited every day for 30 days — totalling 30GB. Unused daily data rolls over to the next day within the bundle validity.\n\nThe best Always-On plan for remote workers and freelancers who need consistent daily data for client calls, emails, and browsing without risk of running out mid-month.\n\nNote: If you have multiple active plans, usage is deducted from the Always-On daily allocation first.\n\nHow to Activate:\n\nCode:\nDial *312# → Select Always-ON Bundles\n\nApp:\nUse the Glo Café App.\n\nCheck balance:\nDial *323#"
+            },
+            {
+              "id": "ALWAYS_ON_004",
+              "data": "45GB (1.5GB/day for 30 days)",
+              "price": 7000,
+              "validity": "30 days",
+              "code": "*312#",
+              "description": "The ultimate Always-On experience from Glo at ₦7,000.\n\nGet 1.5GB of data credited every day for 30 days — totalling 45GB. Unused daily data rolls over to the next day within the bundle validity.\n\nPerfect for heavy users who stream, work remotely, attend video meetings, and need a large structured daily data supply throughout the entire month.\n\nNote: If you have multiple active plans, usage is deducted from the Always-On daily allocation first.\n\nHow to Activate:\n\nCode:\nDial *312# → Select Always-ON Bundles\n\nApp:\nUse the Glo Café App.\n\nCheck balance:\nDial *323#"
+            },
+            {
+              "id": "CAMPUS_001",
+              "data": "Campus Booster plans",
+              "price": 0,
+              "validity": "Varies",
+              "code": "*312#",
+              "description": "Specially discounted data plans for students and staff at Nigerian educational institutions — Glo Campus Booster plans.\n\nCampus Booster bundles unlock boosted data allocations at discounted rates when you are physically on campus. Glo's 4G indoor nodes cover 180+ tertiary institutions across Nigeria including UniJos, FUTA, and many more.\n\nPlans available range from small daily top-ups to full monthly allocations, all priced lower than standard plans for the same data volume.\n\nNote: First-time activation requires you to be physically on campus. Subsequent renewals work from anywhere.\n\nHow to Activate:\n\nCode:\nDial *312# → Select Campus Booster Plans\n\nApp:\nUse the Glo Café App.\n\nCheck balance:\nDial *323#"
+            }
+          ]
         },
         {
           "name": "Daily",
-          "plans": []
+          "plans": [
+            {
+              "id": "D_PLAN_001",
+              "data": "45MB",
+              "price": 50,
+              "validity": "1 day",
+              "code": "*312#",
+              "description": "Stay connected on the smallest budget with Glo's ₦50 daily plan.\n\nGet 45MB of data valid for 24 hours — just enough for a quick WhatsApp check, email, or bank transfer notification when you need it most.\n\nHow to Activate:\n\nCode:\nDial *312# → Select Buy Data → Choose Daily Plans\n\nApp:\nUse the Glo Café App."
+            },
+            {
+              "id": "D_PLAN_002",
+              "data": "245MB (240MB anytime + 5MB night)",
+              "price": 100,
+              "validity": "1 day",
+              "code": "*312#",
+              "description": "Light browsing made affordable with Glo's ₦100 daily plan.\n\nGet 245MB of data (240MB anytime + 5MB night bonus) valid for 24 hours — great for social media, messaging, and casual browsing throughout the day.\n\nHow to Activate:\n\nCode:\nDial *312# → Select Buy Data → Choose Daily Plans\n\nApp:\nUse the Glo Café App."
+            },
+            {
+              "id": "D_PLAN_003",
+              "data": "525MB (500MB anytime + 25MB night)",
+              "price": 200,
+              "validity": "2 days",
+              "code": "*312#",
+              "description": "Get more out of two days with Glo's ₦200 plan.\n\nGet 525MB of data (500MB anytime + 25MB night bonus) valid for 2 days — perfect for moderate browsing, social media, and light streaming across the day.\n\nHow to Activate:\n\nCode:\nDial *312# → Select Buy Data → Choose Daily Plans\n\nApp:\nUse the Glo Café App."
+            },
+            {
+              "id": "D_PLAN_004",
+              "data": "1.35GB (1.3GB anytime + 50MB night)",
+              "price": 300,
+              "validity": "2 days",
+              "code": "*312#",
+              "description": "Enjoy solid browsing over two days with Glo's ₦300 plan.\n\nGet 1.35GB of data (1.3GB anytime + 50MB night bonus) valid for 2 days — ideal for active social media use, video calls, and streaming short videos.\n\nHow to Activate:\n\nCode:\nDial *312# → Select Buy Data → Choose Daily Plans\n\nApp:\nUse the Glo Café App."
+            },
+            {
+              "id": "D_PLAN_005",
+              "data": "2GB",
+              "price": 500,
+              "validity": "2 days",
+              "code": "*312#",
+              "description": "The best short-term value from Glo — 2GB for just ₦500.\n\nGet 2GB of data valid for 2 days — great for video calls, HD streaming, heavy browsing, and staying active across all your apps without worrying about data for two full days.\n\nHow to Activate:\n\nCode:\nDial *312# → Select Buy Data → Choose Daily Plans\n\nApp:\nUse the Glo Café App."
+            }
+          ]
         },
         {
           "name": "Weekly",
-          "plans": []
+          "plans": [
+            {
+              "id": "W_PLAN_001",
+              "data": "1.6GB (1.35GB anytime + 250MB night)",
+              "price": 500,
+              "validity": "7 days",
+              "code": "*312#",
+              "description": "Kick off your week with Glo's ₦500 weekly plan.\n\nGet 1.6GB of data (1.35GB anytime + 250MB night bonus usable 12AM–5AM) valid for 7 days — perfect for light weekly users who browse, message, and stay active on social media throughout the week.\n\nHow to Activate:\n\nCode:\nDial *312# → Select Buy Data → Choose Weekly Plans\n\nApp:\nUse the Glo Café App."
+            },
+            {
+              "id": "W_PLAN_002",
+              "data": "3.5GB (2.5GB anytime + 1GB night)",
+              "price": 1000,
+              "validity": "7 days",
+              "code": "*312#",
+              "description": "Stay connected all week with Glo's ₦1,000 weekly plan.\n\nGet 3.5GB of data (2.5GB anytime + 1GB night bonus usable 12AM–5AM) valid for 7 days — great for moderate users who browse regularly, make video calls, and enjoy occasional streaming during the week.\n\nHow to Activate:\n\nCode:\nDial *312# → Select Buy Data → Choose Weekly Plans\n\nApp:\nUse the Glo Café App."
+            },
+            {
+              "id": "W_PLAN_003",
+              "data": "5.9GB (3.9GB anytime + 2GB night)",
+              "price": 1500,
+              "validity": "7 days",
+              "code": "*312#",
+              "description": "Get the best weekly value on Glo's ₦1,500 plan.\n\nGet 5.9GB of data (3.9GB anytime + 2GB night bonus usable 12AM–5AM) valid for 7 days — ideal for heavy weekly users who stream, browse, work remotely, and want a solid data supply to last the full week.\n\nHow to Activate:\n\nCode:\nDial *312# → Select Buy Data → Choose Weekly Plans\n\nApp:\nUse the Glo Café App."
+            },
+            {
+              "id": "W_PLAN_004",
+              "data": "7.5GB (5GB anytime + 2.5GB night)",
+              "price": 2000,
+              "validity": "7 days",
+              "code": "*312#",
+              "description": "Power through the week with Glo's ₦2,000 weekly plan.\n\nGet 7.5GB of data (5GB anytime + 2.5GB night bonus usable 12AM–5AM) valid for 7 days — perfect for remote workers, content consumers, and heavy streamers who need a large data pool throughout the week.\n\nHow to Activate:\n\nCode:\nDial *312# → Select Buy Data → Choose Weekly Plans\n\nApp:\nUse the Glo Café App."
+            }
+          ]
         },
         {
           "name": "Monthly",
-          "plans": []
+          "plans": [
+            {
+              "id": "M_PLAN_001",
+              "data": "2.6GB",
+              "price": 1000,
+              "validity": "30 days",
+              "code": "*312#",
+              "description": "Kick off the month affordably with Glo's ₦1,000 monthly plan.\n\nGet 2.6GB of anytime data valid for 30 days — Glo's most popular entry-level monthly plan and one of the cheapest monthly data offers in Nigeria.\n\nPerfect for budget-conscious users who need reliable internet access all month for browsing, social media, and messaging.\n\nHow to Activate:\n\nCode:\nDial *312# → Select Buy Data → Choose Monthly Plans\n\nApp:\nUse the Glo Café App."
+            },
+            {
+              "id": "M_PLAN_002",
+              "data": "6.25GB (anytime + night bonus)",
+              "price": 2000,
+              "validity": "30 days",
+              "code": "*312#",
+              "description": "Stay connected all month with Glo's ₦2,000 monthly plan.\n\nGet 6.25GB of data (anytime + night bonus usable 12AM–5AM) valid for 30 days — great for everyday users who browse, stream, and stay active on social media throughout the month.\n\nHow to Activate:\n\nCode:\nDial *312# → Select Buy Data → Choose Monthly Plans\n\nApp:\nUse the Glo Café App."
+            },
+            {
+              "id": "M_PLAN_003",
+              "data": "7.2GB (anytime + night bonus)",
+              "price": 2500,
+              "validity": "30 days",
+              "code": "*312#",
+              "description": "Get more data for less with Glo's ₦2,500 monthly plan.\n\nGet 7.2GB of data (anytime + night bonus usable 12AM–5AM) valid for 30 days — a solid choice for moderate users who want a comfortable data supply for browsing, video calls, and light streaming all month.\n\nHow to Activate:\n\nCode:\nDial *312# → Select Buy Data → Choose Monthly Plans\n\nApp:\nUse the Glo Café App."
+            },
+            {
+              "id": "M_PLAN_004",
+              "data": "10.5GB (anytime + night bonus)",
+              "price": 3000,
+              "validity": "30 days",
+              "code": "*312#",
+              "description": "One of the best value monthly plans in Nigeria — Glo's ₦3,000 plan.\n\nGet 10.5GB of data (anytime + night bonus usable 12AM–5AM) valid for 30 days. At this price point, Glo offers more data than most competing networks, making it an excellent pick for regular internet users.\n\nPerfect for streaming, browsing, social media, and keeping up with work tasks all month long.\n\nHow to Activate:\n\nCode:\nDial *312# → Select Buy Data → Choose Monthly Plans\n\nApp:\nUse the Glo Café App."
+            },
+            {
+              "id": "M_PLAN_005",
+              "data": "32GB (29GB anytime + 3GB night)",
+              "price": 5000,
+              "validity": "30 days",
+              "code": "*312#",
+              "description": "The best overall monthly value from Glo — 32GB for just ₦5,000.\n\nGet 32GB of data (29GB anytime + 3GB night bonus usable 12AM–5AM) valid for 30 days. At just ₦156 per GB, this is one of the most cost-effective monthly data plans across all Nigerian networks.\n\nIdeal for remote workers, freelancers, heavy streamers, and power users who need a large, reliable data supply throughout the month.\n\nHow to Activate:\n\nCode:\nDial *312# → Select Buy Data → Choose Monthly Plans\n\nApp:\nUse the Glo Café App."
+            },
+            {
+              "id": "M_PLAN_006",
+              "data": "25GB",
+              "price": 8000,
+              "validity": "30 days",
+              "code": "*312#",
+              "description": "Heavy-duty anytime data with Glo's ₦8,000 monthly plan.\n\nGet 25GB of unrestricted anytime data valid for 30 days — no night/day split, just pure data you can use whenever you need it.\n\nGreat for users who prefer straightforward all-day access without worrying about time-based data windows.\n\nHow to Activate:\n\nCode:\nDial *312# → Select Buy Data → Choose Monthly Plans\n\nApp:\nUse the Glo Café App."
+            },
+            {
+              "id": "M_PLAN_007",
+              "data": "42GB (anytime + night bonus)",
+              "price": 10000,
+              "validity": "30 days",
+              "code": "*312#",
+              "description": "Go big this month with Glo's ₦10,000 monthly plan.\n\nGet 42GB of data (anytime + night bonus usable 12AM–5AM) valid for 30 days — outstanding value for heavy users, offices, and smart homes that need a large data pool with the added benefit of overnight bonus data.\n\nHow to Activate:\n\nCode:\nDial *312# → Select Buy Data → Choose Monthly Plans\n\nApp:\nUse the Glo Café App."
+            },
+            {
+              "id": "M_PLAN_008",
+              "data": "52.5GB (anytime + night bonus)",
+              "price": 15000,
+              "validity": "30 days",
+              "code": "*312#",
+              "description": "Massive monthly data with Glo's ₦15,000 plan.\n\nGet 52.5GB of data (anytime + night bonus usable 12AM–5AM) valid for 30 days — built for power users, content creators, and businesses that demand high data volumes every month.\n\nHow to Activate:\n\nCode:\nDial *312# → Select Buy Data → Choose Monthly Plans\n\nApp:\nUse the Glo Café App."
+            },
+            {
+              "id": "M_PLAN_009",
+              "data": "62.5GB (anytime + night bonus)",
+              "price": 18000,
+              "validity": "30 days",
+              "code": "*312#",
+              "description": "Near-unlimited monthly data with Glo's ₦18,000 plan.\n\nGet 62.5GB of data (anytime + night bonus usable 12AM–5AM) valid for 30 days — perfect for large households, busy offices, and heavy internet users who need an enormous data allowance all month long.\n\nHow to Activate:\n\nCode:\nDial *312# → Select Buy Data → Choose Monthly Plans\n\nApp:\nUse the Glo Café App."
+            },
+            {
+              "id": "M_PLAN_010",
+              "data": "78.8GB (anytime + night bonus)",
+              "price": 20000,
+              "validity": "30 days",
+              "code": "*312#",
+              "description": "The ultimate monthly data plan from Glo — 78.8GB for ₦20,000.\n\nGet 78.8GB of data (anytime + night bonus usable 12AM–5AM) valid for 30 days — designed for enterprises, large offices, and the heaviest data users who demand the highest capacity available on a monthly basis.\n\nHow to Activate:\n\nCode:\nDial *312# → Select Buy Data → Choose Monthly Plans\n\nApp:\nUse the Glo Café App."
+            }
+          ]
         },
         {
           "name": "Night/Weekend",
-          "plans": []
+          "plans": [
+            {
+              "id": "WE_PLAN_001",
+              "data": "1.25GB",
+              "price": 200,
+              "validity": "Sunday only",
+              "code": "*312#",
+              "description": "Make the most of your Sunday with Glo's ₦200 weekend plan.\n\nGet 1.25GB of data valid for Sunday only — perfect for catching up on social media, streaming, and entertaining yourself on your day off.\n\nHow to Activate:\n\nCode:\nDial *777# → Select Night & Weekend Plans → Choose ₦200/1.25GB Sunday option\n\nApp:\nUse the Glo Café App.\n\nCheck balance:\nDial *323#"
+            },
+            {
+              "id": "WE_PLAN_002",
+              "data": "3GB",
+              "price": 500,
+              "validity": "Friday – Sunday",
+              "code": "*312#",
+              "description": "Enjoy a full weekend of data with Glo's ₦500 TGIF weekend plan.\n\nGet 3GB of data valid from Friday through Sunday — plenty for streaming, gaming, social media, video calls, and all your weekend entertainment needs.\n\nOne of the few active weekend data plans in Nigeria, making Glo stand out from MTN and Airtel who have discontinued their weekend offerings.\n\nHow to Activate:\n\nCode:\nDial *777# → Select Night & Weekend Plans → Choose ₦500/3GB Weekend option\n\nApp:\nUse the Glo Café App.\n\nCheck balance:\nDial *323#"
+            },
+            {
+              "id": "N_PLAN_001",
+              "data": "250MB",
+              "price": 25,
+              "validity": "12:00 AM – 5:00 AM",
+              "code": "*312#",
+              "description": "Browse cheap through the night with Glo's ₦25 night plan.\n\nGet 250MB of data usable strictly between 12:00 AM and 5:00 AM — one of the most affordable night data deals in Nigeria.\n\nPerfect for late-night downloads, streaming, and browsing when the network is fast and traffic is low.\n\nNote: Unused data expires at 5:00 AM and does not roll over.\n\nHow to Activate:\n\nCode:\nDial *777# → Select Night & Weekend Plans → Choose ₦25/250MB option\n\nApp:\nUse the Glo Café App.\n\nCheck balance:\nDial *323#"
+            },
+            {
+              "id": "N_PLAN_002",
+              "data": "500MB",
+              "price": 50,
+              "validity": "12:00 AM – 5:00 AM",
+              "code": "*312#",
+              "description": "Get more night data for less with Glo's ₦50 night plan.\n\nGet 500MB of data usable strictly between 12:00 AM and 5:00 AM — great value for late-night heavy browsing, downloading files, or streaming content.\n\nNote: Unused data expires at 5:00 AM and does not roll over.\n\nHow to Activate:\n\nCode:\nDial *777# → Select Night & Weekend Plans → Choose ₦50/500MB option\n\nApp:\nUse the Glo Café App.\n\nCheck balance:\nDial *323#"
+            },
+            {
+              "id": "N_PLAN_003",
+              "data": "1GB",
+              "price": 100,
+              "validity": "12:00 AM – 5:00 AM",
+              "code": "*312#",
+              "description": "Maximise your midnight hours with Glo's ₦100 night plan.\n\nGet 1GB of data usable strictly between 12:00 AM and 5:00 AM — ideal for downloading large files, streaming HD videos, updating apps, or doing overnight cloud backups.\n\nNote: Unused data expires at 5:00 AM and does not roll over.\n\nHow to Activate:\n\nCode:\nDial *777# → Select Night & Weekend Plans → Choose ₦100/1GB option\n\nApp:\nUse the Glo Café App.\n\nCheck balance:\nDial *323#"
+            },
+            {
+              "id": "N_PLAN_004",
+              "data": "1GB",
+              "price": 200,
+              "validity": "12:00 AM – 5:00 AM (valid for 5 nights)",
+              "code": "*312#",
+              "description": "Five nights of late-night browsing with Glo's ₦200 night plan.\n\nGet 1GB of night data spread across 5 nights (approximately 200MB per night), usable strictly between 12:00 AM and 5:00 AM.\n\nThe best value night plan for consistent late-night users who want overnight data across multiple days without subscribing every single night.\n\nNote: Unused daily allocation does not roll over to the next night.\n\nHow to Activate:\n\nCode:\nDial *777# → Select Night & Weekend Plans → Choose ₦200/1GB/5 Nights option\n\nApp:\nUse the Glo Café App.\n\nCheck balance:\nDial *323#"
+            }
+          ]
         },
         {
           "name": "App",
-          "plans": []
+          "plans": [
+            {
+              "id": "APP_FEAT_001",
+              "data": "75GB (instant) + 5GB x 5 months",
+              "price": 0,
+              "validity": "75GB valid for 1 day; 5GB monthly for 5 months",
+              "code": "APP",
+              "description": "The biggest welcome reward in Nigerian telecom — 100GB free data just for downloading the Glo Café App.\n\nNew users who download and register on the Glo Café App receive 75GB of free data instantly, plus 5GB every month for the next 5 months — totalling 100GB at no cost.\n\nImportant notes:\n- The 75GB instant bonus is valid for 1 day only and expires at midnight — activate when you're ready to use it.\n- The 5GB monthly bonuses are credited over 5 months after registration.\n- This offer is available to new Glo Café users only — existing users are not eligible.\n- Data can be used for all internet activities.\n\nHow to Activate:\n\nApp:\nDownload the Glo Café App → Register your Glo number → Bonus data is credited automatically.\n\nCheck balance:\nDial *323#"
+            },
+            {
+              "id": "APP_FEAT_002",
+              "data": "10% bonus on select data plans",
+              "price": 0,
+              "validity": "Same as the purchased plan",
+              "code": "APP",
+              "description": "Get 10% extra data on select plans when you buy through the Glo Café App.\n\nWhen you purchase eligible data bundles through the Glo Café App, you automatically receive 10% bonus data on top of your plan at no extra cost.\n\nExample: Buying the ₦1,000 monthly plan (normally 2.6GB) through the app gives you an extra 260MB, bringing your total to 2.86GB.\n\nBonus data shares the same validity as your purchased plan.\n\nHow to Activate:\n\nApp:\nOpen the Glo Café App → Buy Data → Select any eligible plan → 10% bonus is applied automatically.\n\nCheck balance:\nDial *323#"
+            },
+            {
+              "id": "APP_FEAT_003",
+              "data": "100% recharge bonus",
+              "price": 0,
+              "validity": "Applied on every recharge done through the app",
+              "code": "APP",
+              "description": "Double your airtime — get 100% recharge bonus on every recharge done through the Glo Café App.\n\nWhen you top up your Glo line using the Glo Café App, you receive 100% bonus on your recharge amount — meaning every naira you load gives you double the airtime value.\n\nThis bonus can be used for calls, SMS, and data subscriptions.\n\nHow to Activate:\n\nApp:\nOpen the Glo Café App → Recharge → Select amount → 100% bonus is automatically applied.\n\nCheck balance:\nDial *323#"
+            },
+            {
+              "id": "APP_FEAT_004",
+              "data": "High-volume, short-validity exclusive bundles",
+              "price": 0,
+              "validity": "Varies — typically 1 day (high-volume burst)",
+              "code": "APP",
+              "description": "Unlock exclusive high-volume, short-validity data bundles only available on the Glo Café App.\n\nGlo offers special data bundles exclusively through the Glo Café App that are not accessible via USSD or any other channel. These are high-volume bundles designed for heavy one-day usage — ideal for large downloads, binge streaming, or intensive browsing sessions.\n\nNote: The specific pricing and data volumes of these bundles are personalised and vary per user. Open the app to see what exclusive bundles are available on your line.\n\nHow to Activate:\n\nApp:\nOpen the Glo Café App → Data Plans → Look for 'Special Bundles' or 'App Only' section.\n\nCheck balance:\nDial *323#"
+            }
+          ]
         }
       ]
     },
