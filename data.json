@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1,
   "data": {
     "airtel": {
       "network": "Airtel",
@@ -1114,27 +1114,345 @@
       "data_plans": [
         {
           "name": "Featured",
-          "plans": []
+          "plans": [
+            {
+              "id": "SP_PLAN_001",
+              "data": "Unlimited chat access",
+              "price": 50,
+              "validity": "1 day",
+              "code": "*200#",
+              "description": "Stay chatting all day with 9mobile's ₦50 Chat Pak.\n\nGet unlimited access to instant messaging apps including WhatsApp and WeChat — valid for 1 day.\n\nNote: Chat only — multimedia file sending and video downloads are not covered. Fair usage policy applies.\n\nHow to Activate:\n\nCode:\nDial *200# → Select Data Menu (Option 3) → Select SmartPaks (Option 3) → Choose Chat Pak daily\n\nCheck balance:\nDial *228#"
+            },
+            {
+              "id": "SP_PLAN_002",
+              "data": "Unlimited chat access",
+              "price": 150,
+              "validity": "7 days",
+              "code": "*200#",
+              "description": "Stay chatting all week with 9mobile's ₦150 Chat Pak weekly plan.\n\nGet unlimited access to instant messaging apps including WhatsApp and WeChat — valid for 7 days.\n\nNote: Chat only — multimedia file sending and video downloads are not covered. Fair usage policy applies.\n\nHow to Activate:\n\nCode:\nDial *200# → Select Data Menu (Option 3) → Select SmartPaks (Option 3) → Choose Chat Pak weekly\n\nCheck balance:\nDial *228#"
+            },
+            {
+              "id": "SP_PLAN_003",
+              "data": "Unlimited chat access",
+              "price": 400,
+              "validity": "30 days",
+              "code": "*200#",
+              "description": "A full month of messaging with 9mobile's ₦400 Chat Pak monthly plan.\n\nGet unlimited access to instant messaging apps including WhatsApp and WeChat — valid for 30 days.\n\nNote: Chat only — multimedia file sending and video downloads are not covered. Fair usage policy applies.\n\nHow to Activate:\n\nCode:\nDial *200# → Select Data Menu (Option 3) → Select SmartPaks (Option 3) → Choose Chat Pak monthly\n\nCheck balance:\nDial *228#"
+            },
+            {
+              "id": "SP_PLAN_004",
+              "data": "Unlimited social access",
+              "price": 50,
+              "validity": "1 day",
+              "code": "*343*6*7#",
+              "description": "Stay social all day for just ₦50 with 9mobile's SocialMe Pak.\n\nGet unlimited access to Facebook, Twitter/X, Instagram, Eskimi, WhatsApp, and WeChat — valid for 1 day.\n\nNote: Fair usage policy applies.\n\nHow to Activate:\n\nCode:\nDial *343*6*7#\n\nCheck balance:\nDial *228#"
+            },
+            {
+              "id": "SP_PLAN_005",
+              "data": "Unlimited social access",
+              "price": 150,
+              "validity": "7 days",
+              "code": "*343*6*8#",
+              "description": "Stay social all week for just ₦150 with 9mobile's SocialMe Pak weekly plan.\n\nGet unlimited access to Facebook, Twitter/X, Instagram, Eskimi, WhatsApp, and WeChat — valid for 7 days.\n\nNote: Fair usage policy applies.\n\nHow to Activate:\n\nCode:\nDial *343*6*8#\n\nCheck balance:\nDial *228#"
+            },
+            {
+              "id": "SP_PLAN_006",
+              "data": "Unlimited social access",
+              "price": 350,
+              "validity": "30 days",
+              "code": "*343*6*9#",
+              "description": "A full month of social media access for just ₦350 with 9mobile's SocialMe Pak monthly plan.\n\nGet unlimited access to Facebook, Twitter/X, Instagram, Eskimi, WhatsApp, and WeChat — valid for 30 days.\n\nOne of the most affordable social media plans in Nigeria.\n\nNote: Fair usage policy applies.\n\nHow to Activate:\n\nCode:\nDial *343*6*9#\n\nCheck balance:\nDial *228#"
+            },
+            {
+              "id": "SP_PLAN_007",
+              "data": "2 hours unlimited video streaming",
+              "price": 400,
+              "validity": "2 hours",
+              "code": "*200#",
+              "description": "Stream any video for 2 uninterrupted hours with 9mobile's ₦400 Video Pak.\n\nGet 2 hours of unlimited video streaming on any app including YouTube and Netflix — enough for a live football match, a movie, or an extended YouTube session.\n\nNote: Fair usage policy applies. Video quality may affect how much you can watch within the 2 hours.\n\nHow to Activate:\n\nCode:\nDial *200# → Select Data Menu (Option 3) → Select SmartPaks (Option 3) → Choose Video Pak\n\nCheck balance:\nDial *228#"
+            },
+            {
+              "id": "SP_PLAN_008",
+              "data": "Up to 50% bonus data",
+              "price": 0,
+              "validity": "Same as purchased plan",
+              "code": "*312#",
+              "description": "Get up to 50% extra data free when you upgrade your monthly plan with 9mobile's Upfront Bonus.\n\nWhen you purchase a higher monthly data plan before your current one expires, 9mobile rewards you with up to 50% bonus data on top of your new plan — at no extra cost.\n\nExample: If you are on the ₦1,500/3GB plan and upgrade to ₦2,000/4.5GB before expiry, you receive up to 2.25GB bonus data.\n\nBonus data shares the same validity as your new plan.\n\nHow to Activate:\n\nCode:\nDial *312# → Buy a higher monthly plan before your current one expires → Bonus is applied automatically.\n\nCheck balance:\nDial *228#"
+            },
+            {
+              "id": "SP_PLAN_009",
+              "data": "Up to 120GB bonus (5GB/month for 12 months)",
+              "price": 0,
+              "validity": "Monthly for 12 months",
+              "code": "*312#",
+              "description": "New to 9mobile or just got a new smartphone? Get up to 120GB of bonus data free with the New Smartphone Offer.\n\nGet 5GB of bonus data every month for 12 months when you purchase any monthly data plan of ₦1,500 and above — totalling up to 120GB of free bonus data over a year.\n\nEligibility: Available to new 9mobile subscribers or existing customers who just purchased a new smartphone and have never previously bought a 9mobile data plan on that device.\n\nHow to Activate:\n\nCode:\nDial *312# → Purchase any monthly plan of ₦1,500 and above → Bonus is automatically applied each month.\n\nCheck balance:\nDial *228#"
+            },
+            {
+              "id": "9M_HOURLY_001",
+              "data": "Unlimited browsing for 10 minutes",
+              "price": 50,
+              "validity": "10 minutes (usable within 2 days)",
+              "code": "SMS 'blazeon' to 229",
+              "description": "Enjoy unlimited internet access for 10 minutes with 9mobile BlazeOn.\n\nThis is a time-based plan, not volume-based — browse as much as you want within the active period.\n\nUnused time can be used later within 2 days of activation.\n\nHow to Activate:\n\nSMS:\nSend 'blazeon' to 229 and select the 10-minute plan.\n\nNote: Time counts only when actively browsing. Fair usage policy applies."
+            },
+            {
+              "id": "9M_HOURLY_002",
+              "data": "Unlimited browsing for 15 minutes",
+              "price": 70,
+              "validity": "15 minutes (usable within 2 days)",
+              "code": "SMS 'blazeon' to 229",
+              "description": "Enjoy unlimited internet access for 15 minutes with 9mobile BlazeOn.\n\nThis plan allows unrestricted browsing within the active time window.\n\nUnused minutes remain valid for up to 2 days after activation.\n\nHow to Activate:\n\nSMS:\nSend 'blazeon' to 229 and select the 15-minute plan.\n\nNote: Time is only deducted when you are actively connected to the internet."
+            },
+            {
+              "id": "9M_HOURLY_003",
+              "data": "Unlimited browsing for 30 minutes",
+              "price": 120,
+              "validity": "30 minutes (usable within 2 days)",
+              "code": "SMS 'blazeon' to 229",
+              "description": "Browse without limits for 30 minutes using 9mobile BlazeOn.\n\nIdeal for short bursts of heavy browsing, downloads, or streaming.\n\nYou can split usage across sessions within 2 days.\n\nHow to Activate:\n\nSMS:\nSend 'blazeon' to 229 and select the 30-minute option.\n\nNote: Valid only while actively browsing. Fair usage policy applies."
+            },
+            {
+              "id": "9M_HOURLY_004",
+              "data": "Unlimited browsing for 1 hour",
+              "price": 200,
+              "validity": "1 hour (usable within 2 days)",
+              "code": "SMS 'blazeon' to 229",
+              "description": "Get unlimited browsing for a full hour with 9mobile BlazeOn.\n\nPerfect for streaming, downloads, and extended browsing sessions.\n\nTime can be used flexibly within 2 days of activation.\n\nHow to Activate:\n\nSMS:\nSend 'blazeon' to 229 and select the 1-hour plan.\n\nCheck balance:\nDial *228#\n\nNote: Time is deducted only when actively connected. Fair usage policy applies."
+            }
+          ]
         },
         {
           "name": "Daily",
-          "plans": []
+          "plans": [
+            {
+              "id": "D_PLAN_001",
+              "data": "24MB",
+              "price": 50,
+              "validity": "1 day",
+              "code": "*229*3*8#",
+              "description": "Stay connected on the tightest budget with 9mobile's ₦50 daily plan.\n\nGet 24MB of data valid for 24 hours — just enough for a quick email check, WhatsApp message, or light browsing when you need it most.\n\nHow to Activate:\n\nCode:\nDial *229*3*8#\n\nCheck balance:\nDial *228#"
+            },
+            {
+              "id": "D_PLAN_002",
+              "data": "100MB + 100MB Social",
+              "price": 100,
+              "validity": "1 day",
+              "code": "*229*3*1#",
+              "description": "Light browsing plus social access for just ₦100 with 9mobile's daily plan.\n\nGet 100MB of general data plus 100MB for social media (Facebook, Instagram, Twitter, and Snapchat) — all valid for 24 hours.\n\nHow to Activate:\n\nCode:\nDial *229*3*1#\n\nCheck balance:\nDial *228#"
+            },
+            {
+              "id": "D_PLAN_003",
+              "data": "650MB",
+              "price": 200,
+              "validity": "1 day",
+              "code": "*229*3*2#",
+              "description": "Great daily value with 9mobile's ₦200 plan — 650MB for just one day.\n\nGet 650MB of data valid for 24 hours — perfect for active social media use, video calls, and moderate browsing throughout the day.\n\nBonus: Subscribe up to 5 times in a week to earn a 3.17GB weekend bonus!\n\nHow to Activate:\n\nCode:\nDial *229*3*2#\n\nCheck balance:\nDial *228#"
+            },
+            {
+              "id": "D_PLAN_004",
+              "data": "1.5GB + Social",
+              "price": 300,
+              "validity": "1 day",
+              "code": "*229*3*3#",
+              "description": "Power through your day with 9mobile's ₦300 daily plan.\n\nGet 1.5GB of data plus free social media access (Facebook, Instagram, Twitter, Snapchat) — all valid for 24 hours.\n\nIdeal for heavy daily users who need both general browsing and social media covered in one plan.\n\nHow to Activate:\n\nCode:\nDial *229*3*3#\n\nCheck balance:\nDial *228#"
+            }
+          ]
         },
         {
           "name": "Weekly",
-          "plans": []
+          "plans": [
+            {
+              "id": "W_PLAN_001",
+              "data": "250MB",
+              "price": 200,
+              "validity": "7 days",
+              "code": "*229*2*10#",
+              "description": "Light weekly browsing for just ₦200 with 9mobile's weekly plan.\n\nGet 250MB of data valid for 7 days — great for light users who need occasional internet access throughout the week for messaging and quick browsing.\n\nHow to Activate:\n\nCode:\nDial *229*2*10#\n\nCheck balance:\nDial *228#"
+            },
+            {
+              "id": "W_PLAN_002",
+              "data": "1GB + Social",
+              "price": 500,
+              "validity": "7 days",
+              "code": "*229*2*1#",
+              "description": "Stay connected all week with 9mobile's ₦500 weekly plan.\n\nGet 1GB of data plus free social media access (Facebook, Instagram, Twitter, Snapchat) — all valid for 7 days.\n\nPerfect for moderate weekly users who want both general browsing and social media covered.\n\nHow to Activate:\n\nCode:\nDial *229*2*1#\n\nCheck balance:\nDial *228#"
+            },
+            {
+              "id": "W_PLAN_003",
+              "data": "2GB + Social",
+              "price": 500,
+              "validity": "3 days",
+              "code": "*229*3*4#",
+              "description": "Great short-term value with 9mobile's ₦500 3-day plan.\n\nGet 2GB of data plus free social media access (Facebook, Instagram, Twitter, Snapchat) — valid for 3 days.\n\nIdeal for users who need a generous data boost for a few intensive days without committing to a full week.\n\nHow to Activate:\n\nCode:\nDial *229*3*4#\n\nCheck balance:\nDial *228#"
+            },
+            {
+              "id": "W_PLAN_004",
+              "data": "7GB + Social",
+              "price": 1500,
+              "validity": "7 days",
+              "code": "*229*2*2#",
+              "description": "The best weekly plan from 9mobile — 7GB for just ₦1,500.\n\nGet 7GB of data plus free social media access (Facebook, Instagram, Twitter, Snapchat) — all valid for 7 days.\n\nBonus: Subscribe twice in a week to earn a massive 14GB weekend bonus!\n\nPerfect for heavy weekly users who stream, download, and stay active across all apps.\n\nHow to Activate:\n\nCode:\nDial *229*2*2#\n\nCheck balance:\nDial *228#"
+            }
+          ]
         },
         {
           "name": "Monthly",
-          "plans": []
+          "plans": [
+            {
+              "id": "M_PLAN_001",
+              "data": "500MB",
+              "price": 500,
+              "validity": "30 days",
+              "code": "*229*2*12#",
+              "description": "Entry-level monthly data with 9mobile's ₦500 plan.\n\nGet 500MB of data valid for 30 days — suitable for very light users who browse occasionally, check emails, and use messaging apps throughout the month.\n\nHow to Activate:\n\nCode:\nDial *229*2*12#\n\nCheck balance:\nDial *228#"
+            },
+            {
+              "id": "M_PLAN_002",
+              "data": "1.5GB",
+              "price": 1000,
+              "validity": "30 days",
+              "code": "*229*2*7#",
+              "description": "Stay connected all month with 9mobile's ₦1,000 monthly plan.\n\nGet 1.5GB of data valid for 30 days — great for everyday users who browse, message, and stay active on social media throughout the month.\n\nHow to Activate:\n\nCode:\nDial *229*2*7#\n\nCheck balance:\nDial *228#"
+            },
+            {
+              "id": "M_PLAN_003",
+              "data": "2GB",
+              "price": 1200,
+              "validity": "30 days",
+              "code": "*229*2*25#",
+              "description": "More data for less with 9mobile's ₦1,200 monthly plan.\n\nGet 2GB of data valid for 30 days — a solid choice for moderate users who need reliable internet access all month for browsing, social media, and light streaming.\n\nHow to Activate:\n\nCode:\nDial *229*2*25#\n\nCheck balance:\nDial *228#"
+            },
+            {
+              "id": "M_PLAN_004",
+              "data": "3GB",
+              "price": 1500,
+              "validity": "30 days",
+              "code": "*229*2*3#",
+              "description": "Good value monthly data with 9mobile's ₦1,500 plan.\n\nGet 3GB of data valid for 30 days — ideal for regular internet users who browse, video call, and stream content throughout the month.\n\nHow to Activate:\n\nCode:\nDial *229*2*3#\n\nCheck balance:\nDial *228#"
+            },
+            {
+              "id": "M_PLAN_005",
+              "data": "4.5GB",
+              "price": 2000,
+              "validity": "30 days",
+              "code": "*229*2*8#",
+              "description": "Power through the month with 9mobile's ₦2,000 monthly plan.\n\nGet 4.5GB of data valid for 30 days — great for active internet users who browse heavily, stream content, and stay connected across multiple apps daily.\n\nHow to Activate:\n\nCode:\nDial *229*2*8#\n\nCheck balance:\nDial *228#"
+            },
+            {
+              "id": "M_PLAN_006",
+              "data": "11GB",
+              "price": 4000,
+              "validity": "30 days",
+              "code": "*229*2*36#",
+              "description": "Heavy-duty monthly data with 9mobile's ₦4,000 plan.\n\nGet 11GB of data valid for 30 days — perfect for power users who stream HD videos, attend online meetings, and download large files throughout the month.\n\nHow to Activate:\n\nCode:\nDial *229*2*36#\n\nCheck balance:\nDial *228#"
+            },
+            {
+              "id": "M_PLAN_007",
+              "data": "15GB",
+              "price": 5000,
+              "validity": "30 days",
+              "code": "*229*2*37#",
+              "description": "Serious monthly data with 9mobile's ₦5,000 plan.\n\nGet 15GB of data valid for 30 days — ideal for remote workers, content consumers, and heavy streamers who need a large data supply all month long.\n\nHow to Activate:\n\nCode:\nDial *229*2*37#\n\nCheck balance:\nDial *228#"
+            },
+            {
+              "id": "M_PLAN_008",
+              "data": "40GB",
+              "price": 10000,
+              "validity": "30 days",
+              "code": "*229*4*1#",
+              "description": "Enterprise-level monthly data with 9mobile's ₦10,000 plan.\n\nGet 40GB of data valid for 30 days — designed for businesses, households with multiple devices, and ultra-heavy users who demand a massive monthly data allowance.\n\nHow to Activate:\n\nCode:\nDial *229*4*1#\n\nCheck balance:\nDial *228#"
+            },
+            {
+              "id": "M_PLAN_009",
+              "data": "75GB",
+              "price": 15000,
+              "validity": "30 days",
+              "code": "*229*2*4#",
+              "description": "The biggest monthly plan from 9mobile — 75GB for ₦15,000.\n\nGet 75GB of data valid for 30 days — the ultimate plan for businesses, large offices, and the heaviest data users who demand the highest capacity available on a monthly basis.\n\nHow to Activate:\n\nCode:\nDial *229*2*4#\n\nCheck balance:\nDial *228#"
+            },
+            {
+              "id": "LT_PLAN_001",
+              "data": "60GB",
+              "price": 20000,
+              "validity": "180 days (6 months)",
+              "code": "*229*5*2#",
+              "description": "Six months of data in one purchase with 9mobile's ₦20,000 bi-annual plan.\n\nGet 60GB of data valid for 180 days — ideal for consistent data users who prefer a long-term plan and want to avoid frequent monthly resubscriptions.\n\nHow to Activate:\n\nCode:\nDial *229*5*2#\n\nCheck balance:\nDial *228#"
+            },
+            {
+              "id": "LT_PLAN_002",
+              "data": "120GB",
+              "price": 36000,
+              "validity": "365 days (1 year)",
+              "code": "*229*5*3#",
+              "description": "A full year of data with 9mobile's ₦36,000 annual plan.\n\nGet 120GB of data valid for 365 days — the most cost-effective long-term data plan from 9mobile, perfect for users who want to set and forget their data subscription for an entire year.\n\nHow to Activate:\n\nCode:\nDial *229*5*3#\n\nCheck balance:\nDial *228#"
+            }
+          ]
         },
         {
           "name": "Night/Weekend",
-          "plans": []
+          "plans": [
+            {
+              "id": "WE_PLAN_001",
+              "data": "2GB",
+              "price": 1000,
+              "validity": "30 days (7PM–7AM weekdays, 24hrs weekends)",
+              "code": "*229*3*12#",
+              "description": "Evening and weekend browsing all month for just ₦1,000 with 9mobile's plan.\n\nGet 2GB of data usable from 7PM to 7AM on weekdays, and available all day (24 hours) on weekends — valid for 30 days.\n\nPerfect for users who primarily browse in the evenings and want unlimited weekend access throughout the month.\n\nHow to Activate:\n\nCode:\nDial *229*3*12#\n\nCheck balance:\nDial *228#"
+            },
+            {
+              "id": "WE_PLAN_002",
+              "data": "5GB + 100MB WhatsApp 24/7",
+              "price": 2000,
+              "validity": "30 days (7PM–7AM weekdays, 24hrs weekends)",
+              "code": "*229*3*13#",
+              "description": "The ultimate evening and weekend plan from 9mobile — 5GB for ₦2,000.\n\nGet 5GB of data usable from 7PM to 7AM on weekdays, available all day on weekends, plus 100MB of WhatsApp data usable 24/7 even during restricted hours — all valid for 30 days.\n\nThe only Nigerian network plan that gives you dedicated 24/7 WhatsApp access bundled into a weekend/evening plan.\n\nHow to Activate:\n\nCode:\nDial *229*3*13#\n\nCheck balance:\nDial *228#"
+            },
+            {
+              "id": "WE_PLAN_003",
+              "data": "3.17GB weekend bonus",
+              "price": 0,
+              "validity": "Weekend only",
+              "code": "*229*3*2#",
+              "description": "Earn a free 3.17GB weekend bonus by subscribing to the ₦200 daily plan (650MB) up to 5 times in a week.\n\nThis Weekend Data Festival bonus is automatically credited when you subscribe to the 650MB/₦200 daily plan five times within the same week — giving you free 3.17GB to use over the entire weekend at no extra cost.\n\nHow to Earn:\n\nCode:\nDial *229*3*2# up to 5 times in one week to trigger the weekend bonus automatically."
+            },
+            {
+              "id": "WE_PLAN_004",
+              "data": "14GB weekend bonus",
+              "price": 0,
+              "validity": "Weekend only",
+              "code": "*229*2*2#",
+              "description": "Earn a massive free 14GB weekend bonus by subscribing to the ₦1,500 weekly plan (7GB) twice in a week.\n\nThis Weekend Data Festival bonus is automatically credited when you subscribe to the 7GB/₦1,500 weekly plan twice within the same week — giving you free 14GB to use over the entire weekend at no extra cost.\n\nHow to Earn:\n\nCode:\nDial *229*2*2# twice in one week to trigger the weekend bonus automatically."
+            },
+            {
+              "id": "N_PLAN_001",
+              "data": "1GB",
+              "price": 200,
+              "validity": "12:00 AM – 5:00 AM",
+              "code": "*229*3*11#",
+              "description": "Browse cheap through the night with 9mobile's ₦200 night plan.\n\nGet 1GB of data usable strictly between 12:00 AM and 5:00 AM — great value for late-night downloads, streaming, and heavy browsing.\n\nNote: Subscribe only within the active hours (12AM–5AM). Subscribing before midnight will not credit your data. Unused data expires at 5:00 AM.\n\nHow to Activate:\n\nCode:\nDial *229*3*11#\n\nCheck balance:\nDial *228#"
+            }
+          ]
         },
         {
           "name": "App",
-          "plans": []
+          "plans": [
+            {
+              "id": "APP_PLAN_001",
+              "data": "Custom bundle (voice + data + SMS)",
+              "price": 0,
+              "validity": "Varies",
+              "code": "APP",
+              "description": "Build your own personalised data plan with the myT2 App's MixRoom feature.\n\nMixRoom lets you create custom bundles combining voice minutes, data, and SMS in any combination that suits your lifestyle — instead of being locked into a fixed plan.\n\nThis feature is exclusively available on the myT2 App (formerly My9mobile) and cannot be accessed via USSD.\n\nHow to Activate:\n\nApp:\nDownload the myT2 App → Open MixRoom → Build your custom bundle → Pay and activate.\n\nCheck balance:\nDial *228#"
+            },
+            {
+              "id": "APP_PLAN_002",
+              "data": "Exclusive lifestyle deals and bundles",
+              "price": 0,
+              "validity": "Varies per offer",
+              "code": "APP",
+              "description": "Discover exclusive deals, bundles, and partner experiences only available on the myT2 App.\n\nThe myT2 App regularly features app-only data offers, flash deals, and lifestyle bundles that are not accessible via USSD or any other channel. These change frequently so check the app regularly.\n\nNote: Specific pricing and data volumes vary per offer and are personalised based on your account activity.\n\nHow to Access:\n\nApp:\nDownload the myT2 App → Browse 'Lifestyle Offers' or 'Exclusive Deals' section.\n\nCheck balance:\nDial *228#"
+            }
+          ]
         }
       ]
     }
